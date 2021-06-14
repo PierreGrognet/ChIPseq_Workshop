@@ -4,7 +4,8 @@ author: Pierre Grognet
 license: Creative Commons Attribution-ShareAlike (CC BY-SA 4.0)
 ---
 
-#Lysis Buffer
+# Lysis Buffer 
+
 ||||
 | ------------- | -----:|-----:|
 |Hepes pH 7.5   |  50 mM ||
