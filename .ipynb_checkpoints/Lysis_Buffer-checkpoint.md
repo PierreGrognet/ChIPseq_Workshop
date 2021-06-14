@@ -5,7 +5,7 @@ license: Creative Commons Attribution-ShareAlike (CC BY-SA 4.0)
 ---
 
 #Lysis Buffer
-
+||||
 | ------------- | -----:|-----:|
 |Hepes pH 7.5   |  50 mM ||
 |NaCl           |    140mM ||
