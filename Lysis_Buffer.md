@@ -14,4 +14,4 @@ license: Creative Commons Attribution-ShareAlike (CC BY-SA 4.0)
 |Triton X-100|1 % |
 |Sodium deoxycholate|0.1 %|
 |Proteases inhibitor| 20 µl/ml|
-|CaCl2| 2 mM
+|CaCl2| 2 mM|
