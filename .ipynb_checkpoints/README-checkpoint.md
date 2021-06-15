@@ -66,48 +66,40 @@ Checking the nucleosomal scale (on a 50 µl aliquot):
  + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
  + Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
  + SDS 0.5% 65°C over night (=decrosslink)
- + Purification  Phenol/ethanol 
 
-![How it should look](Pictures/chromatin_ladder.png)
 
-<img src="Pictures/chromatin_ladder.png" width="200" height="200">
 
 
 
 ### Day 2
 
- 
+* Phenol extraction:
 
--          Purif Phenol:
+ + 300μl phenol
+ + 300μl chloroform 
+ + mix or vortex, 
+ + centrifuge 3 min at top speed
+ + recover the aqueous phase
+ + 600 μl chloroform
+ + centrifuge 3 min at top speed
+ + recover the aqueous phase
 
-+300μl phenol+300μl of chloroform (mix or vortex, centrifuge 3min speeds max, recover the aqueous phase)
+* Ethanol precipitation:
 
-+ 600μl of Chloroform (mix or vortex, centrifuge 3min speeds max recover the aqueous phase)
-
--          Ethanol precipitation:
-
-+1/100 glycogen
-
-+1/10 Sodium Acetate 3M
-
-+Ethanol 100% x2.5 (DNA+ Na Acetate) or up to the maximum of the tube
-
-Centrifuge 10min 16000G 4°C, remove supernatant
-
-+ 500μl ethanol 70% cold
-
-Centrifuge 10min 16000G 4°C, remove supernatant
-
-Allow to dry on the bench at least 10-20min (until evaporation of the last drops)
-
-Resuspend in 50μl H2O, migrate 10μ+2μ load buffer in small wells, 40min 50V 1.5% agarose
+ + 1/100 glycogen
+ + 1/10 Sodium Acetate 3 M
+ + Ethanol 100% x2.5 (DNA+ Na Acetate) or fill the tube
+ + Centrifuge 10 min 16000G, 4°C, remove supernatant
+ + 500 μl cold ethanol 70% 
+ + Centrifuge 10 min 16000G, 4°C, remove supernatant
+ + Air dry 10-20 min
+ + Resuspend in 5 0μl H2O, 
+ + Run a gel with 10μl of sample + 2μl of loading buffer, 40 min 50V 1.5% agarose
 
  
 
- 
-
- 
-
+It should looks like this:
+<img src="Pictures/chromatin_ladder.png" width="400" height="600">
  
 
  
@@ -117,7 +109,7 @@ Resuspend in 50μl H2O, migrate 10μ+2μ load buffer in small wells, 40min 50V 1
 
  
 
-For ChiP/Q-PCR:
+#### ChiP:
 
 -          Dose chromatin with Qubit
 
