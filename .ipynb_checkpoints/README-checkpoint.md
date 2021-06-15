@@ -2,7 +2,7 @@
 
 ## Reagents:
 
-[Other reagents](reagents.md)
+[Reagents](reagents.md)
 
 ## Recipes:
 
