@@ -68,8 +68,7 @@ Checking the nucleosomal scale (on a 50 µl aliquot):
  + SDS 0.5% 65°C over night (=decrosslink)
  + Purification  Phenol/ethanol 
 
- image:
-![How it should look](Picture/chromatin_ladder.png)
+![How it should look](Pictures/chromatin_ladder.png)
 
 ### Day 2
 
