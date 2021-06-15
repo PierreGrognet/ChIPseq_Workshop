@@ -63,14 +63,15 @@ Lysis and chromatin digestion
 Checking the nucleosomal scale (on a 50 µl aliquot):
 
 * Treat with:
-+ RNAse A (20mg/ml) 10 μl, 60 min at 37°C
-+ Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
-+ SDS 0.5% 65°C over night (=decrosslink)
-+ Purification  Phenol/ethanol 
+ + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
+ + Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
+ + SDS 0.5% 65°C over night (=decrosslink)
+ + Purification  Phenol/ethanol 
 
- 
+ image:
+![How it should look](Picture/chromatin_ladder.png)
 
-### Days 2:
+### Day 2
 
  
 
