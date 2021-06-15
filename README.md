@@ -42,7 +42,7 @@ Grinding and storage (In cold room)
 
  
 
-### Day 1: 
+### Day 1
 
 Lysis and chromatin digestion 
 
@@ -99,7 +99,7 @@ Checking the nucleosomal scale (on a 50 µl aliquot):
 
 
 It should looks like this:
-<img src="Pictures/chromatin_ladder.png" width="400" height="600">
+<img src="Pictures/chromatin_ladder.png" width="400" height="500">
  
 
  
@@ -128,7 +128,7 @@ In the cold room:
 
  
 
-### Days 3
+### Day 3
 
 Incubation with beads, Washing, Elution and Decrosslink
 
@@ -149,13 +149,14 @@ Incubation with beads, Washing, Elution and Decrosslink
 
 
 
-### Days 4
+### Day 4
 
 RNase, Proteinase, Phenol/Chlo Purification
 
 - Add 125 μl H2O to the Samples
 
 * Treat with:
+
      + RNAse A (20mg/ml) **2 μl for the Samples, 5 µl for the Inputs**, 120 min at 50°C
      + Proteinase K (20mg/ml) 10 μl, 120 min at 50°C
      + SDS 0.5% 65°C over night (=decrosslink)
@@ -179,7 +180,7 @@ RNase, Proteinase, Phenol/Chlo Purification
 - Precipitate overnight at 4°C
  
 
-### Days 5
+### Day 5
 
  
 * Ethanol precipitation (end):
