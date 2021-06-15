@@ -21,7 +21,7 @@ The beads must be washed before use:
 
 
 
-## Protocol
+## ChIP Protocol
 
 ### Preparation of mycelium
 
@@ -63,9 +63,9 @@ Lysis and chromatin digestion
 Checking the nucleosomal scale (on a 50 µl aliquot):
 
 * Treat with:
- + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
- + Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
- + SDS 0.5% 65°C over night (=decrosslink)
+     + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
+     + Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
+     + SDS 0.5% 65°C over night (=decrosslink)
 
 
 
@@ -75,28 +75,28 @@ Checking the nucleosomal scale (on a 50 µl aliquot):
 
 * Phenol extraction:
 
- + 300μl phenol
- + 300μl chloroform 
- + mix or vortex, 
- + centrifuge 3 min at top speed
- + recover the aqueous phase
- + 600 μl chloroform
- + centrifuge 3 min at top speed
- + recover the aqueous phase
+     + 300μl phenol
+     + 300μl chloroform 
+     + mix or vortex, 
+     + centrifuge 3 min at top speed
+     + recover the aqueous phase
+     + 600 μl chloroform
+     + centrifuge 3 min at top speed
+     + recover the aqueous phase
 
 * Ethanol precipitation:
 
- + 1/100 glycogen
- + 1/10 Sodium Acetate 3 M
- + Ethanol 100% x2.5 (DNA+ Na Acetate) or fill the tube
- + Centrifuge 10 min 16000G, 4°C, remove supernatant
- + 500 μl cold ethanol 70% 
- + Centrifuge 10 min 16000G, 4°C, remove supernatant
- + Air dry 10-20 min
- + Resuspend in 5 0μl H2O, 
- + Run a gel with 10μl of sample + 2μl of loading buffer, 40 min 50V 1.5% agarose
+     + 1/100 glycogen
+     + 1/10 Sodium Acetate 3 M
+     + Ethanol 100% x2.5 (DNA+ Na Acetate) or fill the tube
+     + Centrifuge 10 min 16000G, 4°C, remove supernatant
+     + 500 μl cold ethanol 70% 
+     + Centrifuge 10 min 16000G, 4°C, remove supernatant
+     + Air dry 10-20 min
+     + Resuspend in 50 μl H2O, 
+     + Run a gel with 10μl of sample + 2μl of loading buffer, 40 min 50V 1.5% agarose
 
- 
+
 
 It should looks like this:
 <img src="Pictures/chromatin_ladder.png" width="400" height="600">
@@ -111,103 +111,94 @@ It should looks like this:
 
 #### ChiP:
 
--          Dose chromatin with Qubit
+- Quantify the chromatin (with Qbit)
+- Add 1.1 ml of [Lysis buffer](Lysis_Buffer.md) + protease inhibitor to 5 μg of chromatin
 
--          Take 5μg of chromatin supplement up to 1.1ml with Lysis buffer + protease inhibitor, keep the rest to look at the nucleosomal scale
 
 In the cold room:
 
--          Prewashing add 30μl of magnetic beads incubate 3-4h at 4°C on turntable
-
--          Remove the balls (3min on magnetic door and then recover the supernatant)
-
--          Take 100μl (= Input) freeze at -80°C
-
--          Incubate the rest (1ml) with the antibody over night at 4 ° C on a turntable, do not forget a sample without Antibodies (Ac0)
+- Washing: add 30 μl of magnetic beads,  incubate 3-4h at 4°C on a rotating wheel.
+- Place the tubes on a magnetic rack and recover the supernatant
+- Take 100 μl (= Input) and freeze at -80°C
+- Incubate the rest (1 ml) with the antibody over night at 4°C on a rotating wheel, **do not forget a sample without Antibodies (Ac0)**
 
  
 
-Caution: A Tube (5μg)= Precipitation with an antibody
-
-Provide a tube for each duplicate of each anti-coprs to be tested!
-
-(Possibility of mixing each lyses with each other and then aliquoting before pre-washing)
+**Caution**: 1 Tube (5μg) = 1 Precipitation with 1 antibody. Prepare 1 tube for each replicate of each antibody.
 
  
 
-Days 2: Incubation with balls, Washing, Elution and Decrosslink
+### Days 3
 
--          Incubation 20μl of magnetic beads 4h 4 ° C on turntable
+Incubation with beads, Washing, Elution and Decrosslink
 
--          Washes (magnetic door 3min, remove supernatant and add 1ml of buffer then incubate 10min on turntable each time)
+- Add 20μl of magnetic beads, incubate 4h at 4°C on a rotating wheel
 
-1) 2X Lysis buffer without protease inhibitor without CaCl2
-2) Lysis buffer plus 0.5 M NaCl
-3) LiCl Wash Buffer (I do it 2x now, to see)
-4) Tris-EDTA
--          Elution: resuspend the beads in 62.5μl of TES preheated to 65 ° C and incubate at 65 ° C (vortex every 2min if no thermomixer)
+- Washes: on magnetic rack for 3 min, remove supernatant, add 1 ml of buffer and incubate 10 min on rotating wheel each time
+    1. [Lysis buffer](Lysis_Buffer.md) without protease inhibitor without CaCl2 - x2
+    2. [Lysis buffer NaCl](Lysis_Buffer_500.md)
+    3. [LiCl Washbuffer](LiCl_Buffer.md) - x2
+    4. Tris-EDTA
+  
 
-Retrieve the supernatant and then start over (pool the two supernatants)
+- Elution: resuspend the beads in 62.5μl of [TES](TES.md) preheated at 65°C and incubate at 65°C (vortex every 2 min or shake with the thermomixer)
+    - Recover the supernatant and repeat the elution with fresh TES, pool the two elutions --> Samples
+
+- Reverse crosslink:  Add 500 μl of TES to Inputs and incubate Samples and Inputs at 65°C over night
+
+
+
+
+### Days 4
+
+RNase, Proteinase, Phenol/Chlo Purification
+
+- Add 125 μl H2O to the Samples
+
+* Treat with:
+     + RNAse A (20mg/ml) **2 μl for the Samples, 5 µl for the Inputs**, 120 min at 50°C
+     + Proteinase K (20mg/ml) 10 μl, 120 min at 50°C
+     + SDS 0.5% 65°C over night (=decrosslink)
+     
+* Phenol extraction:
+
+     + 300μl phenol
+     + 300μl chloroform 
+     + mix or vortex, 
+     + centrifuge 3 min at top speed
+     + recover the aqueous phase
+     + 600 μl chloroform
+     + centrifuge 3 min at top speed
+     + recover the aqueous phase
+
+* Ethanol precipitation:
+
+     + 1/100 glycogen
+     + 1/10 Sodium Acetate 3 M
+     + Ethanol 100% x2.5 (DNA+ Na Acetate) or fill the tube
+- Precipitate overnight at 4°C
+ 
+
+### Days 5
+
+ 
+* Ethanol precipitation (end):
+
+     + Centrifuge 10 min 16000G, 4°C, remove supernatant
+     + Air dry 10-20 min
+     + Resuspend in 30μl of Tris-EDTA 
+
+- Quantify the chromatin with the Qubit high sensitivity
+- Freeze at -80°C
 
  
 
--          Add 500μl of TES to Inputs and Decrosslink Samples and Inputs 65°C over night
+
+
 
  
 
-Days 3: RNase, Proteinase, Phenol/Chlo Purification
-
--          Add 125μl H2O to samples
-
--          RNase A treatment 2μl for Samples, 5μl for Input 120min 50 °C
-
--          Proteinase K treatment (20mg/ml) 10μl 120min 50°C
-
--          Purif Phenol:
-
-+300μl phenol+300μl of chloroform (mix or vortex, centrifuge 3min speeds max, recover the aqueous phase)
-
-+ 600μl of Chloroform (mix or vortex, centrifuge 3min speeds max recover the aqueous phase)
-
--          Ethanol precipitation:
-
-+1/100 glycogen
-
-+1/10 Sodium Acetate 3M
-
-+Ethanol 100% x2.5 (DNA+ Na Acetate) or up to the maximum of the tube
-
-Let precipitate over night at -20°C
-
- 
-
-Days 4: Continuation and End ChiP
-
- 
-
-Centrifuge 10min 16000G 4°C, remove supernatant
-
-+ 500μl ethanol 70% cold
-
-Centrifuge 10min 16000G 4°C, remove supernatant
-
-Allow to dry on the bench at least 10-20min (until evaporation of the last drops)
-
--          Resuspend in 30μl of Tris-EDTA
-
- 
-
--          Dose chromatin with Qubit high sensitivity
-
- 
-
--          Freeze at -80°C
-
- 
-
- 
-
-Q-PCR:
+## qPCR:
 
 Q-PCR mixture per well: 5μl of MasterMix 2μl H2O 1μl of primer mixture 5μM 2μl of diluted DNA
 
