@@ -70,6 +70,10 @@ Checking the nucleosomal scale (on a 50 µl aliquot):
 
 ![How it should look](Pictures/chromatin_ladder.png)
 
+<img src="Assets/icon.png" width="200" height="200">
+
+
+
 ### Day 2
 
  
