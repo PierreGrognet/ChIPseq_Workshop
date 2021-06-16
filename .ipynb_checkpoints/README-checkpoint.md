@@ -2,7 +2,7 @@
 
 
 Here is the schedule of the workshop\
-!(Pictures/schedule.png)
+<img src="Pictures/schedule.png" >
 
 
 ## ChIP Protocol
