@@ -1,7 +1,8 @@
 # ChIPseq Workshop
 
 
-
+Here is the schedule of the workshop
+<img src="Pictures/schedule.png" width="400" height="600">
 
 
 ## ChIP Protocol
