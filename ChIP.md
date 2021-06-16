@@ -1,29 +1,7 @@
-# ChIPseq Workshop
+# ChIP protocol
 
 
-## Reagents:
-
-* [Reagents](reagents.md)
-
-The beads must be washed before use:
-> Aliquot the appropriate volume of beads and place on the magntic rack\
-  Wash with [Lysis buffer](Lysis_Buffer.md), 1 ml / 250µl of beads, 3 min, at RT\
-  Collect the beads and resuspend in [Lysis buffer](Lysis_Buffer.md), same volume as initially\
-  Store at 4°c
-
-
-## Buffers recipes:
-
-* [Lysis buffer](Lysis_Buffer.md)
-* [Lysis buffer NaCl](Lysis_Buffer_500.md)  
-* [LiCl Washbuffer](LiCl_Buffer.md)  
-* [TES](TES.md)
-
-
-
-## ChIP Protocol
-
-### Preparation of mycelium
+## Preparation of mycelium
 
 Culture
 - Inoculate 6 Roux bottles of 100 ml of medium with a fresh mycelium (grown 1 or 2 days on M2 medium at 27°C).
@@ -109,7 +87,7 @@ It should looks like this:
 
  
 
-#### ChiP:
+## ChiP:
 
 - Quantify the chromatin (with Qbit)
 - Add 1.1 ml of [Lysis buffer](Lysis_Buffer.md) + protease inhibitor to 5 μg of chromatin
@@ -191,46 +169,3 @@ RNase, Proteinase, Phenol/Chlo Purification
 
 - Quantify the chromatin with the Qubit high sensitivity
 - Freeze at -80°C
-
- 
-
-
-
-
- 
-
-## qPCR:
-
-Q-PCR mixture per well: 5μl of MasterMix 2μl H2O 1μl of primer mixture 5μM 2μl of diluted DNA
-
-You can test different DNA dilutions to come across the right Cq (20-22) or do like me and test 1/20 which in my opinion corresponded to a good approximation of reality.
-
-In theory the Cq of the Sample should not be different from more than a factor 4 of the Input, but for me I consider that we are OK if we stay in the range (avoid exceeding a Sample>30)
-
-For each pair of primers tested:
-
--          Make a dilution range of 5 in 5 from a mixed of 1/20 DNA dilutions (Input+Sample), 3 points are enough. This curve makes it possible to determine the effectiveness of your primers and to detect if there are inhibitors.
-
--          Test an Input 1/20 (normally it's the same for each antibody but you can test them all before selecting one).
-
--          Test all Samples 1/20 (or adequate dilution)
-
--          Make 2 wells without DNA = negative controls
-
--          Make a plate reporter point (Known DNA concentration, always the same pair of antibodies between each plate)
-
-Make each point in triplicat (=9 wells for the efficiency range + 2 neg control wells + 3 Input wells + 3 Sample wells x the number of duplicate ChiP x the number of antibodies tested + 3 reporter wells)
-
-Analysis of the results:
-
-Adjust the Cq of the imput (Imput=1/10 sample)
-
-AdjustedCq= CalculatedCq-(ln(dilution factor)/ln(E))
-
- 
-
-Let CqInput be adjusted= Cq Inputcalculated-( ln(10)/ln(E)) if same dilution for Q-PCR
-
-For each Sample:
-
-%Input= E^(CqInput adjusted-CqSample)
