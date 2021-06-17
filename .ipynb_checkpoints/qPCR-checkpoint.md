@@ -30,18 +30,18 @@ Make each point in triplicat (=9 wells for the efficiency range + 2 neg control 
 
 
 Adjust the Cq of the input:\
-Input=1/10xSample
+<img src="Pictures/input_adj.png">
 
 Adjustment of the Cq_sample :\
-Cq_adj = Cq_calc-(ln(dilution factor)/ln(E))
+<img src="Pictures/cqadj_sample.png">
 
 Where E stands for the primer efficiency.
 
 
 Adjustment of the Cq_Input (for the same dilution in qPCR):\
-Cq_adj = Cq_calc-(ln(10)/ln(E))
+<img src="Pictures/cqadj_input.png">
 
 
 For each Sample:
 
-%Input = E^(Cq_Input-Cq_Sample)
+<img src="Pictures/enrichment.png">
