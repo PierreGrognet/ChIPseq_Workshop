@@ -47,6 +47,6 @@ For each Sample:
 %Input = $E^{Cq_Input-Cq_Sample}$
 
 
-```bash
+```markdown
 $Cq_{adj} = Cq_{calc}-\frac{ln(10)}{ln(E)}$
 ```
