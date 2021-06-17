@@ -23,6 +23,11 @@ Here is the schedule of the workshop\
 
 
 
+## Introduction to ChIP technic
+
+
+## About *Podospora anserina* and its epigenome
+
 
 
 ## ChIP Protocol
