@@ -25,6 +25,7 @@ Here is the schedule of the workshop\
 
 ## Introduction to ChIP technic
 
+* [ChIP description](ChIP_description.md)
 
 ## About *Podospora anserina* and its epigenome
 
@@ -32,7 +33,7 @@ Here is the schedule of the workshop\
 
 ## ChIP Protocol
 
-* [ChIP protocol](ChIP.md)
+* [ChIP protocol](ChIP_protocol.md)
 
 
 
