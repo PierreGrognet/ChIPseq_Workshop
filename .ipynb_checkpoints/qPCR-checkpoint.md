@@ -9,7 +9,7 @@ You can test different DNA dilutions to come across the right Cq (20-22) or do l
 In theory the Cq of the Sampless should not differ from the Input more than a factor of 4, but I consider that we are OK if we stay in that range (avoid exceeding a Sample>30)
 
 
-* Q-PCR mix: 
+* qPCR mix: 
     + 5μl of MasterMix 
     + 2μl H2O 
     + 1μl of primer mix 5μM 
