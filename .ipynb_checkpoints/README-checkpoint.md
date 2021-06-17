@@ -1,5 +1,7 @@
 # ChIPseq Workshop
 
+
+
 This workshop is part of the genE² master of the University Paris-Saclay\
 <img src="Pictures/genE2.png" width="200" height="150">
 <img src="Pictures/univ.png" width="350" height="150">
@@ -10,8 +12,17 @@ With the support of:\
 <img src="Pictures/illumina.png" width="300" height="150">
 
 
+
+
+
+
+
 Here is the schedule of the workshop\
 <img src="Pictures/schedule.png" >
+
+
+
+
 
 
 ## ChIP Protocol
