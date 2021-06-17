@@ -38,7 +38,9 @@ Here is the schedule of the workshop\
 
 ## qPCR
 
-* [qPCR on ChIPed chromatin](qPCR.ipynb)
+* [qPCR on ChIPed chromatin](qPCR.md)
+
+* [qPCR on ChIPed chromatin (page de test pour formules)](qPCR.ipynb)
 
 
 
