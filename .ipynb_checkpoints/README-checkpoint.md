@@ -1,5 +1,14 @@
 # ChIPseq Workshop
 
+This workshop is part of the genE² master of the University Paris-Saclay\
+<img src="Pictures/genE2.png" >
+<img src="Pictures/univ.png" >
+
+
+With the support of:\
+<img src="Pictures/i2bc.png" >
+<img src="Pictures/illumina.png" >
+
 
 Here is the schedule of the workshop\
 <img src="Pictures/schedule.png" >
