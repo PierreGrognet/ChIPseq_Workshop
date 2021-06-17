@@ -33,7 +33,7 @@ Adjust the Cq of the input:\
 Input=$\frac{1}{10}$xSample
 
 Adjustment of the Cq_sample :\
-$Cq_{adj}$ = Cq_{calc}-\frac{ln(dilution factor)}{ln(E)}
+$Cq_{adj} = Cq_{calc}-\frac{ln(dilution factor)}{ln(E)}$
 
 Where E stands for the primer efficiency.
 
@@ -48,10 +48,5 @@ For each Sample:
 
 
 ```bash
-
-```
-
-
-```bash
-
+$Cq_{adj} = Cq_{calc}-\frac{ln(10)}{ln(E)}$
 ```
