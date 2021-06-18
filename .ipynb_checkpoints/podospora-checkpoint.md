@@ -1,6 +1,6 @@
 # Podospora anserina
 
-<img src="Pictures/podo.png">
+<img src="Pictures/podo.png" width=200 height=200>
 
 
-You can find much more about **P. anserina** in the [book](https://hal.archives-ouvertes.fr/hal-02475488/document)
+You can find much more about *P. anserina* in this [book](https://hal.archives-ouvertes.fr/hal-02475488/document)

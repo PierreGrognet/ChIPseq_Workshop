@@ -30,7 +30,7 @@ Here is the schedule of the workshop\
 
 ## About *Podospora anserina* and its epigenome
 
-* [More about **Podospora anserina**](podospora.md)
+* [More about *Podospora anserina*](podospora.md)
 
 
 ## ChIP Protocol
