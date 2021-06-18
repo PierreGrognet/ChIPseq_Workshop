@@ -18,8 +18,12 @@ This figure is a simplified representation of the ChIP procedure.
 
 6. The magnetic beads bound to the chromatin-protein-antibody complex is precipitated with a magnet. They stay stuck to tube while the rest is discarded with the supernatant.
 
-7. 
+7. We separate the beads, proteins and DNA from each other (by heating).
 
-8. 
+8. The DNA is purified...
 
-9. 
+9. ... and can be used for: 
+    - qPCR (ChIP-qPCR)
+    - Sequencing (ChIP-seq)
+    - Microarray (ChIP-on-Chip)
+    - ...
