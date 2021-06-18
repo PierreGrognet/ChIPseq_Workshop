@@ -1,4 +1,4 @@
-# Podospora anserina
+# *Podospora anserina*
 
 
 <figure>
