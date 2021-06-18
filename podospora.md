@@ -3,7 +3,7 @@
 
 <figure>
   <img src="Pictures/podo.png" width=200 height=200>
-  <figcaption>*P. anserina*, Credit: P. Grognet</figcaption>
+    <figcaption> Thallus and fructification of <i>P. anserina</i>, Credit: P. Grognet</figcaption>
 </figure>
 
 
