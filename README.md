@@ -12,7 +12,8 @@ With the support of:\
 <img src="Pictures/illumina.png" width="300" height="150">
 
 
-
+Organized by:\
+[Benoit Moindrot](mailto:benoit.moindrot@universite-paris-saclay.fr) and [Pierre Grognet](mailto:pierre.grognet@université-paris-saclay.fr)
 
 
 
@@ -29,6 +30,7 @@ Here is the schedule of the workshop\
 
 ## About *Podospora anserina* and its epigenome
 
+* [More about **Podospora anserina**](podospora.md)
 
 
 ## ChIP Protocol
@@ -40,7 +42,6 @@ Here is the schedule of the workshop\
 ## qPCR
 
 * [qPCR on ChIPed chromatin](qPCR.md)
-
 
 
 
