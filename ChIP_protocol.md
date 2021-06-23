@@ -14,13 +14,14 @@ Culture
 
 Fixation
 - Filter the mycelium on gauze, rinse once with PBS at room temperature.
-- Fix in 100ml of PBS 1X + 2.5 ml Formaldehyde 37%, shake 15 min at 27°C. 
+- Fix in 100ml of PBS 1X + 2.5 ml Formaldehyde 37%, shake 15 min at 27°C. _Careful: Formaldehyde is toxix, work with appropriate safety equipements (gloves, chemical hood)_
 - Stop with 2.5 ml of Glycine 2.5 M (shake for 5 min).
 
 Grinding and storage (In cold room)
-- Filter the mycelium and wash twice with cold PBS
+- Filter the mycelium (_the flow-through needs to be discarded in appropriate liquid trash bin_)
+- Wash twice with cold PBS
 - Dry on wattman paper (do not hesitate to press the mycelium)
-- Grind with liquid nitrogen with mortar and pestle. 
+- Grind with liquid nitrogen with mortar and pestle.  _Careful: Use appropriate safety equipments_
 - Weigh and store at -80°C in 50 mL Falcon tubes (transport in liquid nitrogen).
 
  
