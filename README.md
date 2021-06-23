@@ -25,6 +25,10 @@ Here is the schedule of the workshop\
 
 
 
+## Introduction to Epigenetics and Epigenomics
+
+* [Epigenomics](IntroEPI.md)
+
 
 ## Introduction to ChIP technic
 
