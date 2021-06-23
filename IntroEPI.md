@@ -1,4 +1,4 @@
-#Introduction to Epigenomics
+# Introduction to Epigenomics
 
 ## There are many different definitions of epigenetics
 The one used for the course is the following : Epigenetics is the study of mitotically and/or meiotically _heritable_ (but _reversible_) changes in gene/genome function that _cannot be explained by changes in DNA sequence_ and persist in the absence of the factors that induce these changes.
@@ -21,7 +21,8 @@ The modulation of the histone post-translational modification content at specifi
 
 
 
-##Epigenomics
+## Epigenomics
+
 **The epigenomics** is the study of the complete set of epigenetics modifications on the genetic material of a cell or organism, with no or little need for mitotic/meiotic inheritance of the epigenetic marks. It heavily relies on (1) the ability to generate big data (initially though micro-arrays, but now via Massive Parallel Sequencing) and (2) on the ability to analyze and comprehend using bioinformatic tools.
 
 
