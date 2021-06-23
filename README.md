@@ -35,13 +35,13 @@ Here is the schedule of the workshop\
 * [More about *Podospora anserina*](podospora.md)
 
 
-## ChIP Protocol
+## ChIP Protocol 
 
 * [ChIP protocol](ChIP_protocol.md)
 
 
 
-## qPCR
+## qPCR quantifications
 
 * [qPCR on ChIPed chromatin](qPCR.md)
 
