@@ -39,7 +39,7 @@ It relies on the following key steps:
 
 
     
-##Targeted Proteins and histone marks
+## Targeted Proteins and histone marks
 
 The following histones marks and protein will be targeted during this course. Please note that not every mark will be targeted every year.
 
