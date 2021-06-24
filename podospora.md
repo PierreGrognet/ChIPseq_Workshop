@@ -1,10 +1,8 @@
 # *Podospora anserina*
 
 
-<figure>
-  <img src="Pictures/podo.png" width=200 height=200>
-    <figcaption> Thallus and fructification of <cite>P. anserina</cite>, Credit: P. Grognet</figcaption>
-</figure>
+<img src="Pictures/podo.png" width=200 height=200>
+Thallus and fructification of *P. anserina* (Credit: P. Grognet)
 
 
 
