@@ -58,9 +58,9 @@ Grinding and storage (In cold room)
 ### Day 2
 
 #### Phenol extraction of the DNA
-<span style="color:red">(On ne doit pas ajuster le volume avant avec de l'eau pour avoir une phase acqueuse de 600µL?)</span>
+🔴(On ne doit pas ajuster le volume avant avec de l'eau pour avoir une phase acqueuse de 600µL?)🔴
 
-<span style="color:red">(On a commandé du phénol-chlo. Je suppose qu'on peut faire en sorte de l'utiliser?)</span>
+🔴On a commandé du phénol-chlo. Je suppose qu'on peut faire en sorte de l'utiliser?)🔴
 
 
 To the tube kept over-night at 65°C, add:
