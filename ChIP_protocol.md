@@ -41,7 +41,7 @@ Grinding and storage (In cold room)
 - Repeat the centrifugation to remove as much as possible the undigested genomic DNA.
 
 (Possibility of Storing -80 ° C at this stage, but for the CHIP it is better to avoid the thawing steps).
-<span style="color:red">(Pourquoi on ne quantifie pas au QuBit à ce stade?)</span>
+🔴Pourquoi on ne quantifie pas au QuBit à ce stade?)🔴
 
 #### Checking of chromatin fragmentation (nucleosomal digestion pattern)
 
@@ -107,7 +107,7 @@ It should looks like this:
 Dilution the chromatin : 
 
 - If needed, thaw the chromatin on ice.
-- Quantify the chromatin (with Qbit).<span style="color:red">(Combien de µL, sachant qu'on aura que le QuBit HS? Sachant que l'on n'a pas de QuBit en enseignement...)</span>
+- Quantify the chromatin (with Qbit).🔴(Combien de µL, sachant qu'on aura que le QuBit HS? Sachant que l'on n'a pas de QuBit en enseignement...)🔴
 - Seed 5µg of chromatin in a fresh tube. Adjust the volume to 1.1 ml with  cold [Lysis buffer](Lysis_Buffer.md) + protease inhibitor. Keep the tube on ice.
 
 **Prepare as many tube as necessary for the different IPs and controls you will need**
@@ -115,7 +115,7 @@ Dilution the chromatin :
 
 In the cold room:
 
-- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate 3-4h at 4°C on a rotating wheel.<span style="color:red">(No need to wash the bead beforehand?)</span>
+- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate 3-4h at 4°C on a rotating wheel.🔴(No need to wash the bead beforehand?)🔴
 - Place the tubes on a magnetic rack for 2-3 min and recover the supernatant in a fresh tube. Keep the tube on ice.
 - Save 100 μl (= Input) to a new tube and freeze at -80°C
 - Add the appropriate amount of antibody to the rest (1 ml). Incubate over night at 4°C on a rotating wheel, **do not forget a sample without Antibodies (Ac0)**
@@ -123,7 +123,7 @@ In the cold room:
  
 
 **Caution**: 1 Tube (5μg) = 1 Precipitation with 1 antibody. Prepare 1 tube for each replicate of each antibody.
-<span style="color:red">(On fait un contrôle sans antibody, ou on fait un contrôle GFP antibody?)</span>
+🔴(On fait un contrôle sans antibody, ou on fait un contrôle GFP antibody?)🔴
  
  
  
@@ -138,19 +138,19 @@ In the cold room:
     1. [Lysis buffer](Lysis_Buffer.md) without protease inhibitor without CaCl2 - x2
     2. [Lysis buffer NaCl](Lysis_Buffer_500.md)
     3. [LiCl Washbuffer](LiCl_Buffer.md) - x2
-    4. Tris-EDTA<span style="color:red">(recipe? only once or twice?)</span>
+    4. Tris-EDTA🔴(recipe? only once or twice?)🔴
 
 
 
 #### Elution
-- Resuspend the beads in 62.5μL of [TES](TES.md) preheated at 65°C and incubate at 65°C (vortex every 2 min or shake with the thermomixer). <span style="color:red">(For how long??)</span>
+- Resuspend the beads in 62.5μL of [TES](TES.md) preheated at 65°C and incubate at 65°C (vortex every 2 min or shake with the thermomixer). 🔴(For how long??)🔴
 - Place the tube on magnet and Save the the supernatant in a DNA LoBind Tube.
 - Repeat the elution with fresh TES, pool the two elutions into the same tube.
 
 
 #### Cross-link reversal
 - Thaw the Input and [TES](TES.md) to 500 µL
-- <span style="color:red">(Il ne faut pas aussi ajuster le volume des Elution?? Pourquoi on le fait apès, pour un volume final de 250µL?)</span>
+- 🔴(Il ne faut pas aussi ajuster le volume des Elution?? Pourquoi on le fait apès, pour un volume final de 250µL?)🔴
 - Incubate the Elution sample and the Input at 65°C over night to reverse the cross-link
 
 
@@ -171,7 +171,7 @@ In the cold room:
 
 
 * Phenol extraction: to the Input and Elution Samples
-<span style="color:red">(On a commandé du phénol-chlo. Je suppose qu'on peut faire en sorte de l'utiliser?)</span>
+🔴(On a commandé du phénol-chlo. Je suppose qu'on peut faire en sorte de l'utiliser?)🔴
 
      + Add: 300μl phenol
      + Add: 300μl chloroform 
@@ -199,12 +199,12 @@ To the Elution and Input:
 
  
 * Continue the Ethanol precipitation :
-<span style="color:red">(No washes with EtOH70%??)</span>
+🔴(No washes with EtOH70%??)🔴
 
      + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pelet
      + Air dry 10-20 min
-     + Resuspend the pelet in 30μl of Tris-EDTA <span style="color:red">(recipe? only once or twice?)</span>
+     + Resuspend the pelet in 30μl of Tris-EDTA 🔴(recipe? only once or twice?)🔴
 
 
 - Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit
-- Freeze at -80°C <span style="color:red">(why??)</span>
+- Freeze at -80°C 🔴(why??)🔴
