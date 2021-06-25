@@ -9,7 +9,9 @@ This workshop is part of the genE² master of the University Paris-Saclay\
 
 With the support of:\
 <img src="Pictures/i2bc.gif" width="200" height="150">
+<img src="Pictures/IDEEV_large.png", width="200">
 <img src="Pictures/illumina.png" width="300" height="150">
+
 
 
 Organized by:\
@@ -23,6 +25,10 @@ Here is the schedule of the workshop\
 
 
 
+## Introduction to Epigenetics and Epigenomics
+
+* [Epigenomics](IntroEPI.md)
+
 
 ## Introduction to ChIP technic
 
@@ -33,13 +39,13 @@ Here is the schedule of the workshop\
 * [More about *Podospora anserina*](podospora.md)
 
 
-## ChIP Protocol
+## ChIP Protocol 
 
 * [ChIP protocol](ChIP_protocol.md)
 
 
 
-## qPCR
+## qPCR quantifications
 
 * [qPCR on ChIPed chromatin](qPCR.md)
 
