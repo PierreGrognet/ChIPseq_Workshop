@@ -138,7 +138,7 @@ In the cold room:
     1. [Lysis buffer](Lysis_Buffer.md) without protease inhibitor without CaCl2 - x2
     2. [Lysis buffer NaCl](Lysis_Buffer_500.md)
     3. [LiCl Washbuffer](LiCl_Buffer.md) - x2
-    4. [Tris-EDTA](Tris-EDTA.md)
+    4. [Tris-EDTA](Tris_EDTA.md)
 
 
 
