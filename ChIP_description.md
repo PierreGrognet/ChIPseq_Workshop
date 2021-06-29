@@ -8,7 +8,7 @@
 
 | ![ChIP protocol](Pictures/ChIP.png) |
 |:--:|
-|<b>Figure -  Simplified representation of the ChIP-procedure.</b> <BR> Source: ???|
+|<b>Figure -  Simplified representation of the ChIP-procedure.</b> <BR> Source: Pierre Grognet|
 
 
 
