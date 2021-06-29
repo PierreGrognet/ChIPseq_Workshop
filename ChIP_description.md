@@ -5,10 +5,11 @@
 
 **ChIP** stands for **Ch**omatin **I**mmuno**P**recipitation. This technique is used to determine whether specific protein (or specific protein modifications) are found at specific genomic regions. The overall goal is to **isolate all DNA regions bound to a specific protein** using **antibodies** recognizing the protein (or the modifiedf protein) of interest.
 
-
-| ![ChIP protocol](Pictures/ChIP.png) |
-|:--:|
 |<b>Figure -  Simplified representation of the ChIP-procedure.</b> <BR> Source: Pierre Grognet|
+|:--:|
+| ![ChIP protocol](Pictures/ChIP.png) |
+
+
 
 
 
