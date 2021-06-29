@@ -1,30 +1,87 @@
 # qPCR on ChIPed chromatin
 
+The quality of the immunoprecipitated material is usually evaluated by qPCR before being converted into sequencing library. This is the aim of this section.
 
 
 
+
+## Principle of the analysis: 
+
+The Bio-Rad CFX Real-Time PCR detection system will be used with pairs of primers used in the practicals have been validated beforehand.
+
+All qPCR quantifications are done in triplicates.
+
+
+
+### Calculation of Amplification efficiency = primer efficiency
+
+RAW data (output of CFX analysis software)
+
+* B01/B02/B03, B04/B05/B06 and B07/B08/B09 are standard dilution (1:5 dilution ratio) of a DNA samples (three triplicates)
+* Cq is given by the qPCR machine
+* CQ Mean is the mean Cq of the three triplicates
+* The Log10 (Qty) correspond to the log10 value of the standard 
+
+<img src="Pictures/qPCR_RawData.jpg" width="700" border=1>
+
+Using the RAW data, a standard curve can be plotted and the qPCR amplification efficiency calculated as follows:
+<img src="Pictures/qPCR_StandardCurve.jpg" width="700" border=1>
+
+
+
+
+### Calculation of "Percent of Input"
+
+The "Percent of Input" is calculted using the Mean Cq value, primer efficiency and Input dilution. This is illustrated below for two primer pairs and 3 different IPs including one with a control GFP antibody.
+
+<img src="Pictures/qPCR_Percent_Input.jpg" width="700" border=1>
+
+
+
+
+## Implementation for the practical
+
+### DNA dilution
 
 You can test different DNA dilutions to come across the right Cq (20-22) or do like me and test 1/20 which in my opinion corresponded to a good approximation of reality.
 
 In theory the Cq of the Sampless should not differ from the Input more than a factor of 4, but I consider that we are OK if we stay in that range (avoid exceeding a Sample>30)
 
 
+### qPCR mix
+Prepare a master mix for n+2 reactions (if you have 10 qPCR reaction to do, the mix should be prepared for 12 reactions)
+
 * qPCR mix: 
-    + 5μl of MasterMix 
+    + 5μl of 2X MasterMix 
     + 2μl H2O 
     + 1μl of primer mix 5μM 
     + 2μl of diluted DNA
 
-* For each pair of primers tested:
 
-    + Make a dilution range of 5 in 5 from a mixed of 1/20 DNA dilutions (Input+Sample), 3 points are enough. This curve makes it possible to determine the effectiveness of your primers and to detect if there are inhibitors.
-    + Test an Input 1/20 (normally it's the same for each antibody but you can test them all before selecting one).
-    + Test all Samples 1/20 (or adequate dilution)
-    + Make 2 wells without DNA = negative controls
-    + Make a plate reporter point (Known DNA concentration, always the same pair of antibodies between each plate)
+### qPCR reactions to do
+
+* Beforehand, we need to quantify primer efficiency. For practical reasons, this calculation will be only done once per primer pair for the entire groupe. You'll need to coordinate with your classmate. For the calculation of primer efficiency:
+
+    + Make a serial dilution (1:5) of a mixed of 1/20 DNA dilutions (Input+Sample). 3 different dilutions are enough. Each dilution measured 3 times (= triplicates)
+    + *careful*: the acurracy of the serial dilution is essential.
+    + Include two Negative control wells (i.e. wells in which DNA replaced by H2O)
+    + Plot measured Cq as a function of the log10(quantity). This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
+    
+
+* qPCR reactions on the:
+    + **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
+    + **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
+    + **Negative controls**: Replace DNA by H2O, do **two** wells only
+    + Make a plate reporter point (Known DNA concentration, always the same pair of antibodies between each plate) 🔴we do this?🔴
 
 
-Make each point in triplicat (=9 wells for the efficiency range + 2 neg control wells + 3 Input wells + 3 Sample wells x the number of duplicate ChiP x the number of antibodies tested + 3 reporter wells)
+* In total, for each primer pair:
+	- For the calculation of primer efficiency: 3 x 3 = 9 wells + 2 neg controls
+	- For the calculation of "Percent of Input": 3 wells Input + 3 wells IP + 2 neg controls + 3 reporter wells = 11 wells.
+
+<img src="Pictures/qPCR_Reactions.jpg" width="600" border=1>
+
+
 
 ## Analysis of the results:
 
