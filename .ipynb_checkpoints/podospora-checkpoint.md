@@ -7,7 +7,8 @@
 
 |<b>Figure 1-  Thallus and fructification of <i>P. anserina</i></b> <BR> Source: Pierre Grognet|
 |:--:|
-| ![Podospora anserina](Pictures/podo.png) |
+| <img src="Pictures/podo.png" width=200 height=200> |
+  
 
 During its life cycle (Figure 2), a spermatium, acting as the male
 gamete, from one of the two mating types, mat+ or mat- , fertilizes an ascogonium, the female
@@ -20,7 +21,7 @@ different mating types are packaged into ascospores, which are ejected to begin 
 anew. Normal development of P. anserina thus requires tight regulation of the complex
 mechanisms directing these developmental processes.
 
-|<b>Figure 2-  Life cycle of <i>P. anserina</i></b> <BR> Source: Peraza-Reyes and Berteaux-Lecellier, 2013|
+|<b>Figure 2-  Life cycle of <i>P. anserina</i></b> <BR> Source: [Peraza-Reyes and Berteaux-Lecellier, 2013](http://www.frontiersin.org/Integrative_Physiology/10.3389/fphys.2013.00244/abstract)|
 |:--:|
 | ![Life cycle](Pictures/lifecycle.png) |
 
