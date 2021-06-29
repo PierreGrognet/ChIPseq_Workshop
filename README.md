@@ -2,7 +2,7 @@
 
 
 
-This workshop is part of the genE² master of the University Paris-Saclay\
+This workshop is part of the [genE²](https://www.gene2.fr/) master of the University Paris-Saclay\
 <img src="Pictures/genE2.png" width="200" height="150">
 <img src="Pictures/univ.png" width="350" height="150">
 
