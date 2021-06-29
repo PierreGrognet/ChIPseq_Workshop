@@ -22,10 +22,9 @@ RAW data (output of CFX analysis software)
 * CQ Mean is the mean Cq of the three triplicates
 * The Log10 (Qty) correspond to the log10 value of the standard 
 
-<img src="Pictures/qPCR_RawData.jpg" width="700" border=1>
-
 Using the RAW data, a standard curve can be plotted and the qPCR amplification efficiency calculated as follows:
-<img src="Pictures/qPCR_StandardCurve.jpg" width="700" border=1>
+
+<img src="Pictures/qPCR_RawData_StandardCurve.jpg" width="700">
 
 
 
@@ -34,7 +33,7 @@ Using the RAW data, a standard curve can be plotted and the qPCR amplification e
 
 The "Percent of Input" is calculted using the Mean Cq value, primer efficiency and Input dilution. This is illustrated below for two primer pairs and 3 different IPs including one with a control GFP antibody.
 
-<img src="Pictures/qPCR_Percent_Input.jpg" width="700" border=1>
+<img src="Pictures/qPCR_Percent_Input_v2.jpg" width="700">
 
 
 
