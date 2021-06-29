@@ -9,11 +9,9 @@ The covalent modification of DNA (through DNA methylation) and of histone protei
 Many lysine residues of histone tails can be acetylated. The addition of the acetyl group neutralizes the positive charge of lysine radicals, which diminishes interactions with the negatively-charged DNA. Consequently, histone acetylation is usually associated with open, transcriptionally active chromatin. 
 Histones tails can also be methylated, with different outcomes depending on which lysine residue is methylated and how many methyl-groups are added to the lysine.  Methylation of the lysines 4 and 36 of histone H3 are seen in euchromatin, with H3K4me3 being found at active promoter and H3K36me3 being enriched in the body of actively transcribed genes. On the contrary, H3K27me3 and H3K9me3 are found in the heterochromatic, transcriptionally-silent regions of the chromosomes.
 
-
-
-| ![Histone post-translational modifications](Pictures/Histone_modifications.png) |
-|:--:|
 |<b>Figure -  Schematic representation of histone modifications.</b> <BR> Source: wikipedia.org|
+|:--:|
+| ![Histone post-translational modifications](Pictures/Histone_modifications.png) |
 
 
 
