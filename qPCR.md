@@ -84,6 +84,7 @@ Prepare a master mix for n+2 reactions (if you have 10 qPCR reaction to do, the 
 
 ## Analysis of the results:
 
+The analysis and the different calculation can be done using the provided excel file: [Excel file](qPCR_Analysis.xlsx)
 
 Adjust the Cq of the input:\
 <img src="Pictures/input_adj.png">
