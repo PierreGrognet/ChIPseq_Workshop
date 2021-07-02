@@ -42,6 +42,7 @@ Here is the schedule of the workshop\
 ## ChIP Protocol 
 
 * [ChIP protocol](ChIP_protocol.md)
+* [QuBit protocol](QuBit.md)
 
 
 

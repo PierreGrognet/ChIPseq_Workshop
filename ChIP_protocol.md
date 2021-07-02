@@ -39,7 +39,7 @@ Grinding and storage (In cold room)
 - Centrifuge 3-5 min at 4°C at top speed, 
 - Recover the supernatant (= soluble chromatin), 
 - Repeat the centrifugation to remove as much as possible the undigested genomic DNA.
-- Quantify the chromatin (with Qubit, following the QuBit kit protocole).
+- Quantify the chromatin (with [QuBit](QuBit.md), following the QuBit kit protocol). You may need to dilute an aliquot of the chromatin beforehand.
 
 (Possibility of storing -80 ° C at this stage, but for the ChIP it is better to avoid the thawing steps).
 
@@ -204,5 +204,5 @@ To the Elution and Input:
      + Resuspend the pelet in 30μl of [Tris-EDTA](Tris-EDTA.md)
 
 
-- Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit
+- Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
 - Store at -20°C
