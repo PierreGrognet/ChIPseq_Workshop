@@ -7,7 +7,7 @@
 
 With the support of\
 
-|<img src="Pictures/i2bc.gif" width=80%> |<img src="Pictures/IDEEV_large.png" width=80%> |<img src="Pictures/illumina.png" width=80%>  |
+|<img src="Pictures/i2bc.gif" width=80%> |<img src="Pictures/IDEEV_large.png" width=200%> |<img src="Pictures/illumina.png" width=80%>  |
 |--- |--- |--- |
 
 
@@ -68,3 +68,8 @@ Here is the schedule of the workshop\
 * [LiCl Washbuffer](LiCl_Buffer.md)  
 * [TES](TES.md)
 * [Tris-EDTA](Tris_EDTA.md)
+
+
+## Reports:
+
+* [Information on the reports](report.md)
