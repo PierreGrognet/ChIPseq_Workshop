@@ -19,8 +19,8 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 ## End-repair
 1. Add to the ChIP and Input material in 50µL MilliQ water
-:green_circle: 3µL NEBNext UltraII End Prep Enzyme Mix
-:green_circle: 7µL NEBNext UltraII Enz Prep Reaction Buffer
+	- 🍏(green) 3µL NEBNext UltraII End Prep Enzyme Mix
+	- 🍏(green) 7µL NEBNext UltraII Enz Prep Reaction Buffer
 
 2. Set a 200µL pipette to 50µL and then pipette the entire volume up and down at least 10 times to mix thoroughly.
 
@@ -40,9 +40,9 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 5. Mix the :red_circle: NEBNext Ultra II Ligation Master Mix byb pipetting up and down several times
 
 6. Add to the 60µL enr-repaired materials the following
-	-  :red_circle: 30µL NEBNext Ultra II Ligation Master Mix
-	-  :red_circle: 1µL NEBNext Ligation Enhancer
-	-  :red_circle: 2.5µL NEBNext Adapteor for Illumina (15µM)
+	-  🔴(red) 30µL NEBNext Ultra II Ligation Master Mix
+	-  🔴(red) 1µL NEBNext Ligation Enhancer
+	-  🔴(red) 2.5µL NEBNext Adapteor for Illumina (15µM)
 
 7. Set a 200µL pipette to 50µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Caution, the Ligation Master Mix is very viscous.
 
@@ -50,7 +50,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 9. Incubate 20 min at 20°C in PCR machine (with the LID OFF)
 
-10. Add :red_circle: 3µL USER Eneyme to the ligation mixture
+10. Add 🔴(red) 3µL USER Eneyme to the ligation mixture
 
 11. Mix well by gentle pipetting up and down at least 10 times
 
@@ -103,8 +103,8 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 34. Add the 15µL cleaned-up adapter ligated material the following:
 	- 5µL MilliQ water
-	- 🔵 2.5µL Index 10µM primer
-	- 🔵 2.5µL Universal 10µM PCR primer
+	- 🔵(blue) 2.5µL Index 10µM primer
+	- 🔵(blue) 2.5µL Universal 10µM PCR primer
 
 35. Set a 200µL pipette to 40µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Quickly spin in a mini-centrifuge.
 
@@ -116,9 +116,10 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 	- 5 min   @ 72°C
 	- hold 4°C
 
-The number of cycles depends on the starting quantity. 
 
-	- If starting with 5ng, do 12 cycles
+	>The number of cycles depends on the starting quantity. 
+	
+	>- If starting with 5ng, do 12 cycles
 	- If starting with 10ng, do 11 cycles
 	- If starting with 20ng, do 10 cycles
 	- If starting with 50ng, do 8 cycles
