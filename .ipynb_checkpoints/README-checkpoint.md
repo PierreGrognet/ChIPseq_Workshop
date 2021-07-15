@@ -1,18 +1,17 @@
 # ChIPseq Workshop
 
-<img src="Pictures/genE2.png" width="30%"> 
-This workshop is part of the <BR>[genE²](https://www.gene2.fr/) master <BR>of the University Paris-Saclay
-<img src="Pictures/univ.png" width="30%">
+<img src="Pictures/genE2.png" width="30%"> \
+This workshop is part of the <BR>[genE²](https://www.gene2.fr/) master <BR>of the University Paris-Saclay \
+<img src="Pictures/univ.png" width="30%"> \
 
 
 
 
-With the support of
+With the support of \
 
-<img src="Pictures/i2bc.gif" width=80%> 
-<img src="Pictures/IDEEV_large.png" width=80%> 
-<img src="Pictures/illumina.png" width=80%>
-
+<img src="Pictures/i2bc.gif" width="80%"> \
+<img src="Pictures/IDEEV_large.png" width="80%"> \
+<img src="Pictures/illumina.png" width="80%"> \
 
 
 Organized by:\
