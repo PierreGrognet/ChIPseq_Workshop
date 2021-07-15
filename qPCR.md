@@ -19,7 +19,7 @@ RAW data (output of CFX analysis software)
 
 * B01/B02/B03, B04/B05/B06 and B07/B08/B09 are standard dilution (1:5 dilution ratio) of a DNA samples (three triplicates)
 * Cq is given by the qPCR machine
-* CQ Mean is the mean Cq of the three triplicates
+* Cq Mean is the mean Cq of the three triplicates
 * The Log10 (Qty) correspond to the log10 value of the standard 
 
 Using the RAW data, a standard curve can be plotted and the qPCR amplification efficiency calculated as follows:

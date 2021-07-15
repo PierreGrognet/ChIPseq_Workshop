@@ -1,6 +1,6 @@
 # ChIPseq Workshop
 
-| <img src="Pictures/genE2.png" width="100%"> 	| This workshop is part of the <BR>[genE²](https://www.gene2.fr/) master <BR>of the University Paris-Saclay 	|   <img src="Pictures/univ.png" width="100%"> |
+| <img src="Pictures/genE2.png" width="30%"> 	| This workshop is part of the <BR>[genE²](https://www.gene2.fr/) master <BR>of the University Paris-Saclay 	|   <img src="Pictures/univ.png" width="100%"> |
 |---	|---	| --- |
 
 

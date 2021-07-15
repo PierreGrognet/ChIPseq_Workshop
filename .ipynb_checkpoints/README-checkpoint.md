@@ -1,16 +1,15 @@
 # ChIPseq Workshop
 
+| <img src="Pictures/genE2.png" width="30%"> 	| This workshop is part of the <BR>[genE²](https://www.gene2.fr/) master <BR>of the University Paris-Saclay 	|   <img src="Pictures/univ.png" width="100%"> |
+|---	|---	| --- |
 
 
-This workshop is part of the [genE²](https://www.gene2.fr/) master of the University Paris-Saclay\
-<img src="Pictures/genE2.png" width="200" height="150">
-<img src="Pictures/univ.png" width="350" height="150">
 
+With the support of\
 
-With the support of:\
-<img src="Pictures/i2bc.gif" width="200" height="150">
-<img src="Pictures/IDEEV_large.png" width="200">
-<img src="Pictures/illumina.png" width="300" height="150">
+|<img src="Pictures/i2bc.gif" width=80%> |<img src="Pictures/IDEEV_large.png" width=200%> |<img src="Pictures/illumina.png" width=80%>  |
+|--- |--- |--- |
+
 
 
 
@@ -42,6 +41,7 @@ Here is the schedule of the workshop\
 ## ChIP Protocol 
 
 * [ChIP protocol](ChIP_protocol.md)
+* [QuBit protocol](QuBit.md)
 
 
 
@@ -53,6 +53,7 @@ Here is the schedule of the workshop\
 
 ## Library preparation
 
+* [Library preparation protocol](LibPrep.md)
 
 
 ## Reagents:
@@ -67,3 +68,8 @@ Here is the schedule of the workshop\
 * [LiCl Washbuffer](LiCl_Buffer.md)  
 * [TES](TES.md)
 * [Tris-EDTA](Tris_EDTA.md)
+
+
+## Reports:
+
+* [Information on the reports](report.md)
