@@ -8,7 +8,7 @@ This workshop is part of the [genE²](https://www.gene2.fr/) master of the Unive
 
 
 
-With the support of \
+With the support of :
 
 <img src="Pictures/i2bc.gif" width="30%"> \
 <img src="Pictures/IDEEV_large.png" width="30%"> \
