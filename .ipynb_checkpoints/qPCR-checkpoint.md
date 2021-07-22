@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # qPCR on ChIPed chromatin
 
 The quality of the immunoprecipitated material is usually evaluated by qPCR before being converted into sequencing library. This is the aim of this section.
@@ -71,7 +76,7 @@ Prepare a master mix for n+2 reactions (if you have 10 qPCR reaction to do, the 
     + **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
     + **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
     + **Negative controls**: Replace DNA by H2O, do **two** wells only
-    + Make a plate reporter point (Known DNA concentration, always the same pair of antibodies between each plate) 🔴we do this?🔴
+    + Make a plate reporter point (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs)
 
 
 * In total, for each primer pair:

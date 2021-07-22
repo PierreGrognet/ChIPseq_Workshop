@@ -14,7 +14,7 @@ Culture
 
 Fixation
 - Filter the mycelium on gauze, rinse once with PBS at room temperature.
-- Fix in 100ml of PBS 1X + 2.5 ml Formaldehyde 37%, shake 15 min at 27°C. _Careful: Formaldehyde is toxix, work with appropriate safety equipements (gloves, chemical hood)_
+- Fix in 100ml of PBS 1X + 2.5 ml Formaldehyde 37%, shake 15 min at 27°C. _Careful: Formaldehyde is toxic, work with appropriate safety equipements (gloves, chemical hood)_
 - Stop with 2.5 ml of Glycine 2.5 M (shake for 5 min).
 
 Grinding and storage (In cold room)
