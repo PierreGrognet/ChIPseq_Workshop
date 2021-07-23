@@ -111,10 +111,10 @@ For each Sample:
 
 In addition, you can also calculate the standard deviation for this enrichment with the following formula:
 
-<img src="Pictures/std_dev.png">
+<img src="Pictures/std_dev.png" >
 
 where
 
-<img src="Pictures/mean.png">
+<img src="Pictures/mean.png" >
 
 **all the formulas will be explained during the workshop**
