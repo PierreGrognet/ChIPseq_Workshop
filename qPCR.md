@@ -64,26 +64,29 @@ Prepare a master mix for n+2 reactions (if you have 10 qPCR reaction to do, the 
 
 ### qPCR reactions to do
 
-* Beforehand, we need to quantify primer efficiency. For practical reasons, this calculation will be only done once per primer pair for the entire groupe. You'll need to coordinate with your classmate. For the calculation of primer efficiency:
-
+* Beforehand, we need to quantify primer efficiency for each primer pair:
     + Make a serial dilution (1:5) of a mixed of 1/20 DNA dilutions (Input+Sample). 3 different dilutions are enough. Each dilution measured 3 times (= triplicates)
     + *careful*: the acurracy of the serial dilution is essential.
-    + Include two Negative control wells (i.e. wells in which DNA replaced by H2O)
+    + Include **two Negative control wells** (i.e. wells in which DNA replaced by H2O)
     + Plot measured Cq as a function of the log10(quantity). This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
     
 
 * qPCR reactions on the:
-    + **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
-    + **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
-    + **Negative controls**: Replace DNA by H2O, do **two** wells only
-    + Make a plate reporter point (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs)
+    + A single **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
+    + All your **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
+    + Make a plate **reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs). Ask for details.
 
 
 * In total, for each primer pair:
-	- For the calculation of primer efficiency: 3 x 3 = 9 wells + 2 neg controls
-	- For the calculation of "Percent of Input": 3 wells Input + 3 wells IP + 2 neg controls + 3 reporter wells = 11 wells.
+	- For the calculation of primer efficiency: 3 x 3 = 9 wells
+	- negative controls (H2O): 2 wells
+	- For the calculation of "Percent of Input": 3 wells Input + 3 wells IP1 + 3 wells of IP2 = 9 wells.
+	- An optional "reporter point" (3 wells)
 
-<img src="Pictures/qPCR_Reactions.jpg" width="600" border=1>
+
+|<b>Figure -  Protoposition of a layout for the qPCR|
+|:--:|
+| ![qPCR reactions](Pictures/qPCR_Reactions.jpg) |
 
 
 
