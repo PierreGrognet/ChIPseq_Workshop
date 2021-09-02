@@ -198,10 +198,10 @@ To the Elution and Input:
  
 * Continue the Ethanol precipitation :
 
-     + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pelet
+     + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
      + Wash with 70% ethanol
      + Air dry 10-20 min
-     + Resuspend the pelet in 30μl of [Tris-EDTA](Tris-EDTA.md)
+     + Resuspend the pellet in 30μl of [Tris-EDTA](Tris-EDTA.md)
 
 
 - Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
