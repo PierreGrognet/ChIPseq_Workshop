@@ -118,7 +118,7 @@ In the cold room:
 - Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate 3-4h at 4°C on a rotating wheel.(see [here](reagents.md) for indication on beads preparation)
 - Place the tubes on a magnetic rack for 2-3 min and recover the supernatant in a fresh tube. Keep the tube on ice.
 - Save 100 μl (= Input) to a new tube and freeze at -80°C
-- Add the appropriate amount of antibody to the rest (1 ml). Incubate over night at 4°C on a rotating wheel, **do not forget a sample without Antibodies (Ac0)**
+- Add the appropriate amount of antibody to the rest (1 ml). Incubate over night at 4°C on a rotating wheel.
 
  
 
@@ -143,7 +143,7 @@ In the cold room:
 
 
 #### Elution
-- Resuspend the beads in 62.5μL of [TES](TES.md) preheated at 65°C and incubate at 65°C (vortex every 2 min or shake with the thermomixer). 🔴(For how long??)🔴
+- Resuspend the beads in 62.5μL of [TES](TES.md) preheated at 65°C and incubate at 65°C for 10 min(vortex every 2 min or shake with the thermomixer).
 - Place the tube on magnet and Save the the supernatant in a DNA LoBind Tube.
 - Repeat the elution with fresh TES, pool the two elutions into the same tube.
 
@@ -166,7 +166,6 @@ In the cold room:
      + RNAse A (20mg/ml): **2 μl for the Samples, 5 µl for the Inputs**, 120 min at 50°C
      + Proteinase K (20mg/ml): 10 μl, 120 min at 50°C
      + Add SDS to 0.5% 
-     + Incubate at 65°C over-night to reverse the crosslink
 
 
 * Phenol extraction: to the Input and Elution Samples
@@ -189,7 +188,7 @@ To the Elution and Input:
   + Add 1/10th of  Sodium Acetate 3 M
   + Vortex
   + Add 2.5 volumes Ethanol 100% or fill the tube
-  + Incubate overnight at 4°C to maximize DNA precipitation
+  + Incubate overnight at -20°C to maximize DNA precipitation
  
 
 
