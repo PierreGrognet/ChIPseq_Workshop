@@ -53,7 +53,9 @@ In theory the Cq of the Sampless should not differ from the Input more than a fa
 
 
 ### qPCR mix
-Prepare a master mix for n+2 reactions (if you have 10 qPCR reaction to do, the mix should be prepared for 12 reactions)
+
+Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the mix should be prepared for 23 reactions)
+
 
 * qPCR mix: 
     + 5μl of 2X MasterMix 
