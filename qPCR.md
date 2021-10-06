@@ -73,7 +73,7 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
     + Plot measured Cq as a function of the log10(quantity). This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
     
 
-* qPCR reactions on the:
+* qPCR reactions:
     + A single **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
     + All your **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
     + Make a plate **reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs). Ask for details.
@@ -86,7 +86,7 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 	- An optional "reporter point" (3 wells)
 
 
-|<b>Figure -  Protoposition of a layout for the qPCR|
+|<b>Figure -  Layout for the qPCR|
 |:--:|
 | ![qPCR reactions](Pictures/qPCR_Reactions.jpg) |
 
