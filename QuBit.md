@@ -51,7 +51,7 @@ in Qubit dsDNA HS Buffer.
 - Proceed to "Reading the standard and samples"
 	+ On the Home screen, press DNA, then dsDNA
 	+ Do the calibration with the two standards (starting with Standard #1, then Standard #2)
-	+ Once calibration is completed, measure the concentration in your sample one by one.
+	+ Once calibration is completed, measure the concentration in your sample one by one (you might need to indicate the volume of sample you used).
 	+ Careful: the given concentration is the concentration in the assay tube, not of your actual sample. Take any intermediate dilution into account.
 	
 
