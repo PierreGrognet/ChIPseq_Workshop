@@ -114,7 +114,7 @@ Dilution the chromatin :
 
 In the cold room:
 
-- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate 3-4h at 4°C on a rotating wheel.(see [here](reagents.md) for indication on beads preparation)
+- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel.(see [here](reagents.md) for indication on beads preparation)
 - Place the tubes on a magnetic rack for 2-3 min and recover the supernatant in a fresh tube. Keep the tube on ice.
 - Save 100 μl (= Input) to a new tube and freeze at -80°C
 - Add the appropriate amount of antibody to the rest (1 ml). Incubate over night at 4°C on a rotating wheel.
