@@ -73,10 +73,10 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 17. Incubate 5 min at RT
 
 18. Quickly spin in a mini centrifuge / normal centrifuge
-19. 1Place tubes on magnetic particle separator.
+19. Place tubes on magnetic particle separator.
 20. After 5 minutes (or when the solution is clear) discard the supernatant
 
-21. Keep tubes on magnet and add 200µL freshly prepared 80% EtOH to the beads (8mL EtOH + 2mL H2O)
+21. Keep tubes on magnet and add 200µL freshly prepared 80% EtOH to the beads
 22. Incubate 1 min at RT while the tubes are still on the magnetic rack
 23. Discard supernatant. Do not disturb the beads
 
@@ -101,10 +101,10 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 *Prior starting: plan the experiment to use a unique index for all the libraries that will be sequenced together*
 
-34. Add the 15µL cleaned-up adapter ligated material the following:
-	- 5µL MilliQ water
-	- 🔵(blue) 2.5µL Index 10µM primer
-	- 🔵(blue) 2.5µL Universal 10µM PCR primer
+34. Add to the 15µL cleaned-up adapter ligated material the following:
+	- 🔵(blue) 25µL NEBNext Ultra II Q5 Master Mix
+	- 🔵(blue) 5µL Index 10µM primer
+	- 🔵(blue) 5µL Universal 10µM PCR primer
 
 35. Set a 200µL pipette to 40µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Quickly spin in a mini-centrifuge.
 
