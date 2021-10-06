@@ -60,18 +60,17 @@ Grinding and storage (In cold room)
 
 #### Phenol extraction of the DNA
 
-Adjust the volume to 600 µl.
+Adjust the volume to 300 µl.
 **Carefull! Phenol and chloroform must be used under the fume hood!**
 
 
 To the tube kept over-night at 65°C, add:
 
-* 300μl phenol
-* 300μl chloroform 
+* 300μl phenol-chloroform
 * mix or vortex, 
 * centrifuge 3 min (top speed, room temperature)
 * recover the aqueous phase in a fresh tube
-* 600 μl chloroform
+* 300 μl chloroform
 * centrifuge 3 min (top speed, room temperature)
 * recover the aqueous phase in a fresh tube
 
@@ -188,20 +187,13 @@ To the Elution and Input:
   + Add 1/10th of  Sodium Acetate 3 M
   + Vortex
   + Add 2.5 volumes Ethanol 100% or fill the tube
-  + Incubate overnight at -20°C to maximize DNA precipitation
- 
-
-
-### Day 5
-
- 
-* Continue the Ethanol precipitation :
-
-     + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
-     + Wash with 70% ethanol
-     + Air dry 10-20 min
-     + Resuspend the pellet in 30μl of [Tris-EDTA](Tris-EDTA.md)
+  + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
+  + Wash with 70% ethanol
+  + Air dry 10-20 min
+  + Resuspend the pellet in 30μl of [Tris-EDTA](Tris-EDTA.md)
 
 
 - Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
-- Store at -20°C
+- 
+- Store at -20°C and/or proceed with the library preparation
+
