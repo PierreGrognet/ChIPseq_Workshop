@@ -35,9 +35,10 @@ Here is the schedule of the workshop\
 
 * [ChIP description](ChIP_description.md)
 
-## About *Podospora anserina* and its epigenome
+## About *Podospora anserina* and its genome
 
 * [More about *Podospora anserina*](podospora.md)
+* [*Podospora anserina*'s genome](genome_podo.md)
 
 
 ## ChIP Protocol 
