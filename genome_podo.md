@@ -35,7 +35,7 @@ You'll also find bellow 7 fasta files for the 7 chromosomes.
 
 Here a gff file containing the genome annotation:
 
-[Genome annotation](Annotation_Mat+_v2.gff)
+[Genome annotation](genome_podo/Annotation_Mat+_v2.gff)
 
 
 It contains coordinates and information of coding sequences (CDS), repeats, tRNA, centromeres etc.
@@ -45,7 +45,7 @@ It contains coordinates and information of coding sequences (CDS), repeats, tRNA
 
 Here a file containing the size of each chromosome:
 
-[Chromosome sizes](Chr_size.txt)
+[Chromosome sizes](genome_podo/Chr_size.txt)
 
 
 Some programs need this information.
