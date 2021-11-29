@@ -35,7 +35,7 @@ You'll also find bellow 7 fasta files for the 7 chromosomes.
 
 Here a gff file containing the genome annotation:
 
-[Genome annotation](genome_podo/Annotation_Mat+_v2.gff)
+[Genome annotation](genome_podo/Annotation_MatPlus_v3.gff)
 
 
 It contains coordinates and information of coding sequences (CDS), repeats, tRNA, centromeres etc.
