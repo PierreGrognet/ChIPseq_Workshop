@@ -16,7 +16,7 @@ With the support of :
 
 
 Organized by:\
-[Benoit Moindrot](mailto:benoit.moindrot@universite-paris-saclay.fr) and [Pierre Grognet](mailto:pierre.grognet@université-paris-saclay.fr)
+[Benoit Moindrot](mailto:benoit.moindrot@universite-paris-saclay.fr) and [Pierre Grognet](mailto:pierre.grognet@universite-paris-saclay.fr)
 
 
 The worshop will take place from the **13th to the 17th of September**
