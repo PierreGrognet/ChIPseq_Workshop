@@ -19,7 +19,7 @@ Organized by:\
 [Benoit Moindrot](mailto:benoit.moindrot@universite-paris-saclay.fr) and [Pierre Grognet](mailto:pierre.grognet@universite-paris-saclay.fr)
 
 
-The worshop will take place from the **13th to the 17th of September**
+The worshop will take place from the **19th to the 23rd of September**
 
 Here is the schedule of the workshop\
 <img src="Pictures/schedule.png" >
