@@ -22,7 +22,7 @@ Grinding and storage (In cold room)
 - Wash twice with cold PBS
 - Dry on wattman paper (do not hesitate to press the mycelium)
 - Grind with liquid nitrogen with mortar and pestle.  _Careful: Use appropriate safety equipments_
-- Weigh and store at -80°C in 50 mL Falcon tubes (transport in liquid nitrogen).
+- Weight and store at -80°C in 50 mL Falcon tubes (transport in liquid nitrogen).
 
  
 
@@ -39,12 +39,14 @@ Grinding and storage (In cold room)
 - Centrifuge 3-5 min at 4°C at top speed, 
 - Recover the supernatant (= soluble chromatin), 
 - Repeat the centrifugation to remove as much as possible the undigested genomic DNA.
-- Quantify the chromatin (with [QuBit](QuBit.md), following the QuBit kit protocol). You may need to dilute an aliquot of the chromatin beforehand.
+- Quantify the 2µL and 5µL of your chromatin (with [QuBit](QuBit.md), following the QuBit kit protocol). You may need to dilute an aliquot of the chromatin beforehand.
 
 (Possibility of storing -80 ° C at this stage, but for the ChIP it is better to avoid the thawing steps).
 
 
 #### Checking of chromatin fragmentation (nucleosomal digestion pattern)
+------📝🔴----- *Benoit: 4/07/2022: Do we need to update this section? Last time it didn't work. When I redid the experiment, I did the following: Take 150µL chromatin. Add 50µL H2O + 5µL 5M NaCl + 2µL 0.5M EDTA + 4µL Proteinase K. Incubate O/N at 65°C* ------📝-----
+
 
 * Save a 50µL aliqot of Micrococcale digested chromatin in a fresh tube, then add:
      + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
@@ -60,7 +62,7 @@ Grinding and storage (In cold room)
 
 #### Phenol extraction of the DNA
 
-Adjust the volume to 300 µl.
+Adjust the volume to 300 µl with H2O.
 **Carefull! Phenol and chloroform must be used under the fume hood!**
 
 
@@ -77,7 +79,7 @@ To the tube kept over-night at 65°C, add:
 
 #### Ethanol precipitation:
 
-
+------📝🔴----- *Benoit: 4/07/2022: Do we need to update this section? Last time it didn't work. When I redid the experiment, I followed the protocol but resuspended the pelet into 20µL H2O and loaded everything* ------📝-----
 
 + Add 1/100th of glycogen
 + Add 1/10th Sodium Acetate 3 M. Mix
@@ -109,12 +111,12 @@ Dilution the chromatin :
 - If needed, thaw the chromatin on ice.
 - Seed 5µg of chromatin in a fresh tube. Adjust the volume to 1.1 ml with  cold [Lysis buffer](Lysis_Buffer.md) + protease inhibitor. Keep the tube on ice.
 
-**Prepare as many tube as necessary for the different IPs and controls you will need**
+**Prepare as many tubes as necessary for the different IPs and controls you will need**
 
 
 In the cold room:
 
-- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel.(see [here](reagents.md) for indication on beads preparation)
+- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel. (see [here](reagents.md) for indications on beads preparation)
 - Place the tubes on a magnetic rack for 2-3 min and recover the supernatant in a fresh tube. Keep the tube on ice.
 - Save 100 μl (= Input) to a new tube and freeze at -80°C
 - Add the appropriate amount of antibody to the rest (1 ml). Incubate over night at 4°C on a rotating wheel.
@@ -158,42 +160,42 @@ In the cold room:
 
 #### DNA Purification
 
-- Add 125 μl H2O to the Samples
+* Add 125 μl H2O to the Samples ------📝🔴----- *Benoit: 4/07/2022: needed? Remove? Update phenol/chloroform below if removed.* ------📝-----
 
 * Treat the Input and Elution samples with:
 
      + RNAse A (20mg/ml): **2 μl for the Samples, 5 µl for the Inputs**, 120 min at 50°C
      + Proteinase K (20mg/ml): 10 μl, 120 min at 50°C
-     + Add SDS to 0.5% 
+     + Add SDS to 0.5% ------📝🔴----- *Benoit: 4/07/2022: TES is already at 1% SDS. Remove?* ------📝-----
 
 
 * Phenol extraction: to the Input and Elution Samples
 
-     + Add: 300μl phenol
-     + Add: 300μl chloroform 
+     + Add: 500μl phenol-chloroform
      + mix or vortex, 
      + centrifuge 3 min (top speed at room temperature)
      + recover the aqueous phase in a fresh DNA LoBind tube
-     + Add: 600 μl chloroform
+     + Add: 500 μl chloroform
      + centrifuge 3 min (top speed at room temperature)
      + recover the aqueous phase in a fresh DNA LoBind tube
 
 
 #### DNA Precipitation
 
-To the Elution and Input:
+* To the Elution and Input:
 
   + Add 1/100th of glycogen
-  + Add 1/10th of  Sodium Acetate 3 M
+  + Add 1/10th of Sodium Acetate 3 M
   + Vortex
-  + Add 2.5 volumes Ethanol 100% or fill the tube
+  + Divide into two DNA LoBind tubes (approx 250µL / tube)
+  + Add 2.5 volumes Ethanol 100% (i.e. approx 625µL 100% EtOH).
   + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
   + Wash with 70% ethanol
   + Air dry 10-20 min
-  + Resuspend the pellet in 30μl of [Tris-EDTA](Tris-EDTA.md)
+  + Resuspend each pellet in 15μl of [Tris-EDTA](Tris-EDTA.md). Combine the two pellets of the same IP together. Combine the two pellets of the Input together. The total volume is 30µL.
 
 
-- Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
-- 
-- Store at -20°C and/or proceed with the library preparation
+* Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
+
+* Store at -20°C and/or proceed with the library preparation
 
