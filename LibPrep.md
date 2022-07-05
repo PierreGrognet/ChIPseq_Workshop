@@ -5,7 +5,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 ## Prior consideration
 
-- ChIP’d material should be in volume of 50 µL MQ and be in a PCR tube
+- ChIP’d material should be in volume of 50 µL 10mM Tris-Hcl pH8.0 and be in a PCR tube
 - For input: use 40-50 ng
 - For IP material, use the whole sample (usually a few ng). If the QuBit did not permit the quantification of the ChIP material (concentration too low), it can still be converted into a sequencing library, provided that the qPCR validations are OK.
 
@@ -18,9 +18,9 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 
 ## End-repair
-1. Add to the ChIP and Input material in 50µL MilliQ water
+1. Add to the ChIP and Input material in a total volume of 50µL (adjusted with 10mM Tris-Hcl pH8.0)
 	- 🍏(green) 3µL NEBNext UltraII End Prep Enzyme Mix
-	- 🍏(green) 7µL NEBNext UltraII Enz Prep Reaction Buffer
+	- 🍏(green) 7µL NEBNext UltraII End Prep Reaction Buffer
 
 2. Set a 200µL pipette to 50µL and then pipette the entire volume up and down at least 10 times to mix thoroughly.
 
@@ -29,6 +29,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 4. Place tubes in a PCR machine and run the following program, with the lid set at ≥ 75°C
 	- 30 min at 20°C
 	- 20 min at 65°C
+	- hold 4°C
 
 *STOP point: If necessary, samples can be stored at -20°C; however, a slight loss in yield (~20%) may be observed. NEB recommends continuing with adaptor ligation before stopping*   
 
@@ -37,12 +38,22 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 ## Adapter ligation
 
-5. Mix the :red_circle: NEBNext Ultra II Ligation Master Mix byb pipetting up and down several times
+0. Dilute the "NEBNext Adaptor for Illumina" with the adaptor dilution buffer (10mM Tris pH8.0, 10mM NaCl) as recommended in the table below:
 
-6. Add to the 60µL enr-repaired materials the following
+| DNA quantity   | Adaptor Dilution  | Working adaptor concentration  |
+|---             |---                |---                             |
+| 1µg - 100ng    |   No dilution     |   15µM                         |
+| 100ng - 5ng    |   10-fold (1:10)  |   1.5µM                        |
+| less than 5ng  |   25-fold (1:25)  |   0.6µM                        |
+
+_NB: The "NEBNext Adaptor for Illumina" is in the Multiplex Oligo kit (7335S et 7500S)_
+
+2. Mix the 🔴(red) NEBNext Ultra II Ligation Master Mix by pipetting up and down several times
+
+2. To the 60µL End-repaired material, add the following:
 	-  🔴(red) 30µL NEBNext Ultra II Ligation Master Mix
 	-  🔴(red) 1µL NEBNext Ligation Enhancer
-	-  🔴(red) 2.5µL NEBNext Adapteor for Illumina (15µM)
+	-  🔴(red) 2.5µL (diluted) NEBNext Adaptor for Illumina
 
 7. Set a 200µL pipette to 50µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Caution, the Ligation Master Mix is very viscous.
 
@@ -50,7 +61,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 9. Incubate 20 min at 20°C in PCR machine (with the LID OFF)
 
-10. Add 🔴(red) 3µL USER Eneyme to the ligation mixture
+10. Add 🔴(red) 3µL USER Enzyme to the ligation mixture
 
 11. Mix well by gentle pipetting up and down at least 10 times
 
@@ -65,7 +76,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 ## Clean-UP using Ampure XP beads
 
-14. Warm the Ampure XP beads to room temperature for 30 min. Transfer the adaptor ligated material to a 1.5mL DNA LoBind Eppendorf microtube.
+14. Warm the Ampure XP beads to room temperature for 30 min. Prepare fresh 80% EtOH. Transfer the adaptor ligated material to a 1.5mL DNA LoBind Eppendorf microtube.
 
 
 15. Mix the beads well by vortexing (> 10s) and precisely add 1 volume (= 96.5µL) of Ampure XP beads to adapter ligated material
