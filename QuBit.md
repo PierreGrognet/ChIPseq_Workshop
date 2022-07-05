@@ -32,7 +32,7 @@ in Qubit dsDNA HS Buffer.
 
 ### Prepare the standard measurements
 
-- Wortex the two standard solutions.
+- Vortex the two standard solutions.
 - Add 190µL QuBit Working solution to two assay tube.
 - Add 10µL Standard 1 to one of the tube
 - Add 10µL Standard 2 to the other tube
@@ -40,9 +40,9 @@ in Qubit dsDNA HS Buffer.
 
 ### Prepare the sample measurements
 
-- Wortex the samples
+- Vortex the samples
 - Add QuBit working solution to the assay tube so that the final volume in each tube is 200µL
-- Add your sample. You sample can be anywhere from 1-10µL. Measuring 2µL is  classical.
+- Add your sample. Your sample can be anywhere from 1-10µL. Measuring 2µL is  classical.
 
 ### To the standard and samples
 
