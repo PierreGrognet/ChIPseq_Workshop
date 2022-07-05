@@ -47,9 +47,11 @@ The "Percent of Input" is calculted using the Mean Cq value, primer efficiency a
 
 ### DNA dilution
 
-You can test different DNA dilutions to come across the right Cq (20-22) or do like me and test 1/20 which in my opinion corresponded to a good approximation of reality.
+------📝🔴----- *Benoit: 5/07/2022: Last year, we used a 1:5 dilution, instead of a 1:20. Should we upadate (a) the sentence below and (b) the calculations in the different tables?* ------📝-----
 
-In theory the Cq of the Sampless should not differ from the Input more than a factor of 4, but I consider that we are OK if we stay in that range (avoid exceeding a Sample>30)
+You can test different DNA dilutions to come across the right Cq (20-22) or do like me and test 1:20 which in my opinion corresponded to a good approximation of reality.
+
+In theory, the Cq of the Samples should not differ from the Input more than a factor of 4, but I consider that we are OK if we stay in that range (avoid exceeding a Sample>30)
 
 
 ### qPCR mix
@@ -67,18 +69,25 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 ### qPCR reactions to do
 
 * Beforehand, we need to quantify primer efficiency for each primer pair:
-    + Make a serial dilution (1:5) of a mixed of 1/20 DNA dilutions (Input+Sample). 3 different dilutions are enough. Each dilution measured 3 times (= triplicates)
-    + *careful*: the acurracy of the serial dilution is essential.
-    + Include **two Negative control wells** (i.e. wells in which DNA replaced by H2O)
-    + Plot measured Cq as a function of the log10(quantity). This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
-    
+    + We need to prepare a "standard" by mixing different DNA as follows:
+		- 1 volume of your diluted Input (6µL)
+		- 0.5 volume of your diluted IP1 (3µL)
+		- 0.5 volume of your diluted IP2 (3µL)
+    + Make a serial dilution (1:5) this "standard" (2µL into 8µL H2O). 3 different dilutions are enough. *careful*: the acurracy of the serial dilution is essential.
+    + These 3 dilutions are referred to as "std-1", "std-2" and "std-3" in the layout for the qPCR. 
+    + These PCR are used to determine primer efficiency (see below).
+
+------📝🔴----- *Benoit: 5/07/2022: Last year, we used a 1:5 dilution, instead of a 1:20. Should we upadate (c) the sentences below* ------📝-----
 
 * qPCR reactions:
+    + The three **standards**. In triplicates
     + A single **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
     + All your **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
-    + Make a plate **reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs). Ask for details.
+    + Include **two Negative control wells** (i.e. wells in which DNA replaced by H2O)
+    + [In same cases, we also need to PCR a **plate reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs).  We won't need it here.]
 
-
+* Plot measured Cq as a function of the log10(quantity) of the 3 **standards**. This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
+    
 * In total, for each primer pair:
 	- For the calculation of primer efficiency: 3 x 3 = 9 wells
 	- negative controls (H2O): 2 wells
