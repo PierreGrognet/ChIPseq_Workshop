@@ -45,7 +45,6 @@ Grinding and storage (In cold room)
 
 
 #### Checking of chromatin fragmentation (nucleosomal digestion pattern)
-------📝🔴----- *Benoit: 4/07/2022: Do we need to update this section? Last time it didn't work. When I redid the experiment, I did the following: Take 150µL chromatin. Add 50µL H2O + 5µL 5M NaCl + 2µL 0.5M EDTA + 4µL Proteinase K. Incubate O/N at 65°C* ------📝-----
 
 
 * Save a 50µL aliqot of Micrococcale digested chromatin in a fresh tube, then add:
@@ -79,7 +78,6 @@ To the tube kept over-night at 65°C, add:
 
 #### Ethanol precipitation:
 
-------📝🔴----- *Benoit: 4/07/2022: Do we need to update this section? Last time it didn't work. When I redid the experiment, I followed the protocol but resuspended the pelet into 20µL H2O and loaded everything* ------📝-----
 
 + Add 1/100th of glycogen
 + Add 1/10th Sodium Acetate 3 M. Mix
