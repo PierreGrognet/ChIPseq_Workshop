@@ -12,9 +12,7 @@ The quality of the immunoprecipitated material is usually evaluated by qPCR befo
 
 ## Principle of the analysis: 
 
-The Bio-Rad CFX Real-Time PCR detection system will be used with pairs of primers used in the practicals have been validated beforehand.
-
-All qPCR quantifications are done in triplicates.
+The Bio-Rad CFX Real-Time PCR detection system will be used with pairs of primers that have been validated beforehand. All qPCR quantifications are done in triplicates.
 
 
 
@@ -59,7 +57,7 @@ In theory, the Cq of the Samples should not differ from the Input more than a fa
 Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the mix should be prepared for 23 reactions)
 
 
-* qPCR mix: 
+* Each qPCR reaction is assembled as follow: 
     + 5μl of 2X MasterMix 
     + 2μl H2O 
     + 1μl of primer mix 5μM 
@@ -68,26 +66,26 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 
 ### qPCR reactions to do
 
-* Beforehand, we need to quantify primer efficiency for each primer pair:
+* Beforehand, we need to **quantify primer efficiency** for each primer pair:
     + We need to prepare a "standard" by mixing different DNA as follows:
 		- 1 volume of your diluted Input (6µL)
 		- 0.5 volume of your diluted IP1 (3µL)
 		- 0.5 volume of your diluted IP2 (3µL)
     + Make a serial dilution (1:5) this "standard" (2µL into 8µL H2O). 3 different dilutions are enough. *careful*: the acurracy of the serial dilution is essential.
-    + These 3 dilutions are referred to as "std-1", "std-2" and "std-3" in the layout for the qPCR. 
+    + These 3 dilutions are referred to as "std-1" (undiluted), "std-2" (1:5 dilution) and "std-3" (1:25 dilution) in the layout for the qPCR. 
     + These PCR are used to determine primer efficiency (see below).
 
-------📝🔴----- *Benoit: 5/07/2022: Last year, we used a 1:5 dilution, instead of a 1:20. Should we upadate (c) the sentences below* ------📝-----
 
-* qPCR reactions:
+
+------📝🔴----- *Benoit: 5/07/2022: Last year, we used a 1:5 dilution, instead of a 1:20. Should we update (c) the sentences below* ------📝-----
+
+* How many qPCR wells per pair of students:
     + The three **standards**. In triplicates
     + A single **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
     + All your **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
     + Include **two Negative control wells** (i.e. wells in which DNA replaced by H2O)
     + [In same cases, we also need to PCR a **plate reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs).  We won't need it here.]
 
-* Plot measured Cq as a function of the log10(quantity) of the 3 **standards**. This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
-    
 * In total, for each primer pair:
 	- For the calculation of primer efficiency: 3 x 3 = 9 wells
 	- negative controls (H2O): 2 wells
@@ -101,9 +99,14 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 
 
 
+    
+
 ## Analysis of the results:
 
-The analysis and the different calculation can be done using the provided excel file: [Excel file](qPCR_Analysis.xlsx)
+* Once the RAW data have been exported: Plot measured Cq as a function of the log10(quantity) of the 3 **standards**. This allows to determine qPCR efficiency (see above) and detect the presence of potential PCR inhibitors.
+
+
+* This and the rest of the analysis can be done using the provided excel file: [Excel file](qPCR_Analysis.xlsx)
 
 Adjust the Cq of the input:\
 <img src="Pictures/input_adj.png">

@@ -5,7 +5,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 ## Prior consideration
 
-- ChIP’d material should be in volume of 50 µL 10mM Tris-Hcl pH8.0 and be in a PCR tube
+- ChIP’ed material should be in volume of 50 µL 10mM Tris-Hcl pH8.0 and be in a PCR tube
 - For input: use 40-50 ng
 - For IP material, use the whole sample (usually a few ng). If the QuBit did not permit the quantification of the ChIP material (concentration too low), it can still be converted into a sequencing library, provided that the qPCR validations are OK.
 
@@ -38,7 +38,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 ## Adapter ligation
 
-0. Dilute the "NEBNext Adaptor for Illumina" with the adaptor dilution buffer (10mM Tris pH8.0, 10mM NaCl) as recommended in the table below:
+**Beforehand**: Dilute the "NEBNext Adaptor for Illumina" with the adaptor dilution buffer (10mM Tris pH8.0, 10mM NaCl) as recommended in the table below:
 
 | DNA quantity   | Adaptor Dilution  | Working adaptor concentration  |
 |---             |---                |---                             |
@@ -149,6 +149,6 @@ b- Purification with size selection. To do so, place 100 ng of PCR amplified mat
 
 ## Quantification
 
-Quantify 2µL of clean-up material using QuBit dsDNA HS kit. Follow the procedure shown in the [QuBit](QuBit.md) section.
+Quantify 2µL of cleaned-up material using QuBit dsDNA HS kit. Follow the procedure shown in the [QuBit](QuBit.md) section.
 
 

@@ -61,17 +61,15 @@ Grinding and storage (In cold room)
 
 #### Phenol extraction of the DNA
 
-Adjust the volume to 300 µl with H2O.
-**Carefull! Phenol and chloroform must be used under the fume hood!**
 
+To the tube kept over-night at 65°C, 
 
-To the tube kept over-night at 65°C, add:
-
-* 300μl phenol-chloroform
+* Adjust the volume to 300 µl with H2O
+* Add 300μl phenol-chloroform  (**Carefull! Phenol and chloroform must be used under the fume hood!**)
 * mix or vortex, 
 * centrifuge 3 min (top speed, room temperature)
 * recover the aqueous phase in a fresh tube
-* 300 μl chloroform
+* Add 300 μl chloroform to the aqueous phase
 * centrifuge 3 min (top speed, room temperature)
 * recover the aqueous phase in a fresh tube
 
@@ -114,10 +112,10 @@ Dilution the chromatin :
 
 In the cold room:
 
-- Pre-clearing: add 30 μl of magnetic beads to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel. (see [here](reagents.md) for indications on beads preparation)
+- Pre-clearing: Wash 30µL of magnetic beads per IP, as instructed [here](reagents.md). Then add 30 μl of washed magnetic beads to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel.
 - Place the tubes on a magnetic rack for 2-3 min and recover the supernatant in a fresh tube. Keep the tube on ice.
-- Save 100 μl (= Input) to a new tube and freeze at -80°C
-- Add the appropriate amount of antibody to the rest (1 ml). Incubate over night at 4°C on a rotating wheel.
+- Save 100 μl (= Input) to a new tube and freeze it at -20°C or -80°C.
+- Add the appropriate amount of antibody (see [here](reagents.md)) to the rest (1 ml). Incubate over night at 4°C on a rotating wheel.
 
  
 
@@ -131,7 +129,7 @@ In the cold room:
 
 #### Binding and washes
 
-- Add 20μl of magnetic beads, incubate 4h at 4°C on a rotating wheel.
+- Wash 20µl of magnetic beads per IP, as instructed [here](reagents.md). Then add 20μl of washed magnetic beads to each IP and incubate 4h at 4°C on a rotating wheel.
 
 - Washes: Place the eppendorf tube on the magnetic rack for 3 min, remove supernatant, add 1 ml of the following cold buffers and incubate 10 min on rotating wheel each time at 4°C.
     1. [Lysis buffer](Lysis_Buffer.md) without protease inhibitor without CaCl2 - x2
@@ -183,7 +181,7 @@ In the cold room:
 * To the Elution and Input:
 
   + Add 1/100th of glycogen
-  + Add 1/10th of Sodium Acetate 3 M
+  + Add 1/10th of Sodium Acetate 3M
   + Vortex
   + Divide into two DNA LoBind tubes (approx 250µL / tube)
   + Add 2.5 volumes Ethanol 100% (i.e. approx 625µL 100% EtOH).
@@ -195,5 +193,5 @@ In the cold room:
 
 * Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
 
-* Store at -20°C and/or proceed with the library preparation
+* Store at -20°C. Evaluate the IP specificity per qPCR and/or proceed with the library preparation.
 

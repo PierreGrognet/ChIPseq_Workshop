@@ -1,6 +1,6 @@
 # QuBit Dosage
 
-The QuBit fluoromoters can detect and measure fluorescent dyes that are specific to either protein, RNA, single-stranded DNA or double-stranded DNA. For this practical, we will only use the **QuBit dsDNA DNA High Sensitivity (HS) kit** that is highlt selective for double-stranded DNA.
+The QuBit fluoromoters can detect and measure fluorescent dyes that are specific to either protein, RNA, single-stranded DNA or double-stranded DNA. For this practical, we will only use the **QuBit dsDNA DNA High Sensitivity (HS) kit** that is highly selective for double-stranded DNA.
 
 
 ## Range of detection
@@ -26,8 +26,7 @@ One assay tube is needed per sample + 2 tubes for the two standards. Label them.
 
 - 200µL of working solution are needed per measurement. 2 standard are needed for a serie of measurements. So, if 8 samples need to be measured, prepare enough working solution for 10x200µL (+ 10% extra)
 
-- Prepare the Qubit working solution by diluting (in an eppendorf or a falcon tube) the Qubit dsDNA HS Reagent 1:200 
-in Qubit dsDNA HS Buffer. 
+- Prepare the Qubit working solution by diluting (in an eppendorf or a falcon tube) the Qubit dsDNA HS Reagent 1:200 in Qubit dsDNA HS Buffer. 
 
 
 ### Prepare the standard measurements

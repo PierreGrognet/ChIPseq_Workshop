@@ -26,7 +26,7 @@ The report is due for **Friday, Septembre 30th, 23:59**
 ### Grade
   This report accounts for **60%** of your grade for the teaching unit
 
-
+### Outline
 |<b>Overview of the ChIP practical report</b> |
 |:--:|
 | ![Report Overview](Pictures/Report.png) |
@@ -40,8 +40,20 @@ The report is due for **Monday, December 12th, 23:59**
 ### Grade
   This report accounts for **40%** of your grade for the teaching unit
 
-Below is an outline of what is expected for the report.
-The figures are just here to illustrate the outline and not necessarily what we expect.  
+
+### Type of in-silco analyses expected in this report
+
+- Some informative numbers regarding the sequencing run
+- One or several bedgraphs
+- Intersections between the ChIP-data generated during the practical and something else (other ChIP data; genomic feature; ...)
+
+Importantly: this analyses done and shown must be used to convey a biological/technical message. 
+
+
+### Outline
+Below is an outline of what is expected for the report: 1 cover page + 3 pages of text + 3 pages with Figures.
+
+The figures shown here are just to illustrate the outline and not necessarily what we expect.  
 The space devoted to each section can also vary.
 
 
