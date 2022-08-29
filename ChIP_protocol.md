@@ -156,13 +156,11 @@ In the cold room:
 
 #### DNA Purification
 
-* Add 125 μl H2O to the Samples ------📝🔴----- *Benoit: 4/07/2022: needed? Remove? Update phenol/chloroform below if removed.* ------📝-----
 
 * Treat the Input and Elution samples with:
 
      + RNAse A (20mg/ml): **2 μl for the Samples, 5 µl for the Inputs**, 120 min at 50°C
      + Proteinase K (20mg/ml): 10 μl, 120 min at 50°C
-     + Add SDS to 0.5% ------📝🔴----- *Benoit: 4/07/2022: TES is already at 1% SDS. Remove?* ------📝-----
 
 
 * Phenol extraction: to the Input and Elution Samples
