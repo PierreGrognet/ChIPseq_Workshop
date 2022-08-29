@@ -51,9 +51,8 @@ The "Percent of Input" is calculted using the Mean Cq value, primer efficiency a
 
 ### DNA dilution
 
-------📝🔴----- *Benoit: 5/07/2022: Last year, we used a 1:5 dilution, instead of a 1:20. Should we upadate (a) the sentence below and (b) the calculations in the different tables?* ------📝-----
 
-You can test different DNA dilutions to come across the right Cq (20-22) or do like me and test 1:20 which in my opinion corresponded to a good approximation of reality.
+You can test different DNA dilutions to come across the right Cq (20-22) or do like me and test 1:5 which in my opinion corresponded to a good approximation of reality.
 
 In theory, the Cq of the Samples should not differ from the Input more than a factor of 4, but I consider that we are OK if we stay in that range (avoid exceeding a Sample>30)
 
@@ -83,12 +82,11 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 
 
 
-------📝🔴----- *Benoit: 5/07/2022: Last year, we used a 1:5 dilution, instead of a 1:20. Should we update (c) the sentences below* ------📝-----
 
 * How many qPCR wells per pair of students:
     + The three **standards**. In triplicates
-    + A single **Input** diluted 1/20 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
-    + All your **IP Samples** diluted 1/20 (or adequate dilution). In triplicates
+    + A single **Input** diluted 1/5 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
+    + All your **IP Samples** diluted 1/5 (or adequate dilution). In triplicates
     + Include **two Negative control wells** (i.e. wells in which DNA replaced by H2O)
     + [In same cases, we also need to PCR a **plate reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs).  We won't need it here.]
 
