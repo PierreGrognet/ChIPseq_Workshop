@@ -88,7 +88,7 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
     + A single **Input** diluted 1/5 (normally it's the same for each antibody but you can test them all before selecting one). In triplicates
     + All your **IP Samples** diluted 1/5 (or adequate dilution). In triplicates
     + Include **two Negative control wells** (i.e. wells in which DNA replaced by H2O)
-    + [In same cases, we also need to PCR a **plate reporter point** (Known DNA concentration, always the same pair of antibodies between each plate) (optional: useful to compare samples on different runs).  We won't need it here.]
+    + [In some cases, we also need to PCR a **plate reporter point** (Known DNA concentration, always the same pair of primers between each plate) (optional: useful to compare samples on different runs).  We won't need it here.]
 
 * In total, for each primer pair:
 	- For the calculation of primer efficiency: 3 x 3 = 9 wells
