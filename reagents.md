@@ -13,7 +13,7 @@ Micrococcal nuclease NEB #M0247
 | H3K9me3    | Abcam    | ab8898         | GR3373564-1  | 3.75µL (=3.75µg)|
 | H3K4me3    | ActiveMotif | 39159       | 31420006     | 4 µL            |
 | H4K20me3   | ActiveMotif | 39671       | 35518005     | 7.5 µL          |
-| RNA Pol.II | ActiveMotif | 91151       | 26520003     | 4 µL    (=4µg)  |
+| RNA Pol.II | Abcam | ab5131       | GR3436140-1     | 2.5 µL    (=1.5µg)  |
 | GFP        | Abcam    | ab290          | GR3321614-1  | 3µL             |
 
 
