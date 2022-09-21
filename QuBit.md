@@ -24,9 +24,13 @@ One assay tube is needed per sample + 2 tubes for the two standards. Label them.
 
 ### Prepare the QuBit Working solution
 
-- 200µL of working solution are needed per measurement. 2 standard are needed for a serie of measurements. So, if 8 samples need to be measured, prepare enough working solution for 10x200µL (+ 10% extra)
+- If you are using the Qubit 1X dsDNA HS Assay Kits, the working solution is ready-to-use
 
-- Prepare the Qubit working solution by diluting (in an eppendorf or a falcon tube) the Qubit dsDNA HS Reagent 1:200 in Qubit dsDNA HS Buffer. 
+- If you are using other kits, you have to prepare the working solution before the measurements
+
+	- Prepare the Qubit working solution by diluting (in an eppendorf or a falcon tube) the Qubit dsDNA HS Reagent 1:200 in Qubit dsDNA HS Buffer. 
+
+	- 200µL of working solution are needed per measurement. 2 standard are needed for a serie of measurements. So, if 8 samples need to be measured, prepare enough working solution for 10x200µL (+ 10% extra)
 
 
 ### Prepare the standard measurements
