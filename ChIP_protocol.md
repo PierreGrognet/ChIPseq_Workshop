@@ -23,14 +23,14 @@ Grinding and storage (In cold room)
 - Dry on wattman paper (do not hesitate to press the mycelium)
 - Grind with liquid nitrogen with mortar and pestle.  _Careful: Use appropriate safety equipments_
 - Weight and store at -80°C in 50 mL Falcon tubes (transport in liquid nitrogen).
-
+- In order to prepare ready-to-use aliquots : Weigh approximately 200 mg of mycelium (cool the spatula in liquid nitrogen before each sample, no more than 2 samples after removal of the mycelium from liquid nitrogen)
  
 
 ### Day 1
 
 #### Lysis and chromatin digestion 
 
-- In the cold room : Weigh approximately 200 mg of mycelium (cool the spatula in liquid nitrogen before each sample, no more than 2 samples after removal of the mycelium from liquid nitrogen)
+- Label the tubes with your name / pair number / IP or other instruction the teachers will give.
 - In the ice: Resuspend the mycelium with 1 mL of [Lysis buffer](Lysis_Buffer.md) (+proteinase inhibitor + CaCl2)
 - Mix well 10 times going back and forth with the P1000, vortex, leave 10 min on ice, vortex again.
 - Add 5μl of Micrococcale Nuclease and incubate 20-30 min at 37°C (in the water bath) (+ a control without MNase to check digestion), 
@@ -39,7 +39,7 @@ Grinding and storage (In cold room)
 - Centrifuge 3-5 min at 4°C at top speed, 
 - Recover the supernatant (= soluble chromatin), 
 - Repeat the centrifugation to remove as much as possible the undigested genomic DNA.
-- Quantify the 2µL and 5µL of your chromatin (with [QuBit](QuBit.md), following the QuBit kit protocol). You may need to dilute an aliquot of the chromatin beforehand.
+- Quantify the 2µL of your chromatin (with [QuBit](QuBit.md), following the QuBit kit protocol). You may need to dilute an aliquot of the chromatin beforehand.
 
 (Possibility of storing -80 ° C at this stage, but for the ChIP it is better to avoid the thawing steps).
 
@@ -47,7 +47,7 @@ Grinding and storage (In cold room)
 #### Checking of chromatin fragmentation (nucleosomal digestion pattern)
 
 
-* Save a 50µL aliqot of Micrococcale digested chromatin in a fresh tube, then add:
+* Save a 100µL aliquot of Micrococcale digested chromatin in a fresh tube, then add:
      + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
      + Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
      + SDS to 0.5% 
@@ -80,12 +80,12 @@ To the tube kept over-night at 65°C,
 + Add 1/100th of glycogen
 + Add 1/10th Sodium Acetate 3 M. Mix
 + Add 2.5 volume of Ethanol 100%
-+ Centrifuge 10 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
++ Centrifuge 15 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
 + Add 500 μl cold ethanol 70% 
-+ Centrifuge 10 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
++ Centrifuge 5 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
 + Air dry for 10-20 min
-+ Resuspend in 50 μl H2O
-+ Load 10μl (+ 2μl of loading buffer) on a 1.5% agarose gel. Run 40 min at 50V.
++ Resuspend in 30 μl H2O
++ Load 15 μl (+ 2μl of loading buffer) on a 1.5% agarose gel. Run 20-25 min at 100V.
 
 
 
