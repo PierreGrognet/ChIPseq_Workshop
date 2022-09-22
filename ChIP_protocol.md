@@ -47,7 +47,7 @@ Grinding and storage (In cold room)
 #### Checking of chromatin fragmentation (nucleosomal digestion pattern)
 
 
-* Save a 100µL aliquot of Micrococcale digested chromatin in a fresh tube, then add:
+* Save a 150µL aliquot of Micrococcale digested chromatin in a fresh tube, then add:
      + RNAse A (20mg/ml) 10 μl, 60 min at 37°C
      + Proteinase K (20mg/ml) 10 μl, 120 min at 65°C
      + SDS to 0.5% 
@@ -84,8 +84,9 @@ To the tube kept over-night at 65°C,
 + Add 500 μl cold ethanol 70% 
 + Centrifuge 5 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
 + Air dry for 10-20 min
-+ Resuspend in 30 μl H2O
-+ Load 15 μl (+ 2μl of loading buffer) on a 1.5% agarose gel. Run 20-25 min at 100V.
++ Resuspend in 20 μl H2O
++ Add 4μl of loading buffer
++ Load everything on a 1.5% agarose gel. Run 25-30 min at 100V.
 
 
 
