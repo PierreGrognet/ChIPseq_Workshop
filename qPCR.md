@@ -14,10 +14,10 @@ The quality of the immunoprecipitated material is usually evaluated by qPCR befo
 
 The Bio-Rad CFX Real-Time PCR detection system will be used with pairs of primers that have been validated beforehand. All qPCR quantifications are done in triplicates.
 
-Here we will use two pairs of primers:
+Here we will use two pairs of primers:  
 >- Pair A :\
 Primers FC77 and FC 78\
-Bind in the middle of Pa_2_11200 CDS, coding for **Actin**
+Bind in the middle of Pa_2_11200 CDS, coding for **Actin**  
 >- Pair B :\
 Primers FC125 and FC126\
 Bind in the 5' region of a repressed gene (named Pa_5_80) surrounded with transposable elements
