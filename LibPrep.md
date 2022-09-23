@@ -18,7 +18,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 
 ## End-repair
-1. Add to the ChIP and Input material in a total volume of 50µL (adjusted with 10mM Tris-Hcl pH8.0)
+1. Adjust the volume of the IPs and Input material to a total volume of 50µL with 10mM Tris-Hcl pH8.0, then add:
 	- 🍏(green) 3µL NEBNext UltraII End Prep Enzyme Mix
 	- 🍏(green) 7µL NEBNext UltraII End Prep Reaction Buffer
 
