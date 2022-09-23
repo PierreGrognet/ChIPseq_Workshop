@@ -147,8 +147,8 @@ In the cold room:
 
 
 #### Cross-link reversal
-- Adjust the volume of Input and Samples to 500 µL with [TES](TES.md).
-- Incubate the Elution sample and the Input at 65°C over night to reverse the cross-link
+- Adjust the volume of Input and IP to 500 µL with [TES](TES.md).
+- Incubate the IPs and the Input at 65°C over night to reverse the cross-link
 
 
 
@@ -158,13 +158,13 @@ In the cold room:
 #### DNA Purification
 
 
-* Treat the Input and Elution samples with:
+* Treat the Input and IPs with:
 
-     + RNAse A (20mg/ml): **2 μl for the Samples, 5 µl for the Inputs**, 120 min at 50°C
+     + RNAse A (20mg/ml): **2 μl for the IPs, 5 µl for the Inputs**, 120 min at 50°C
      + Proteinase K (20mg/ml): 10 μl, 120 min at 50°C
 
 
-* Phenol extraction: to the Input and Elution Samples
+* Phenol extraction: to the Input and IPs
 
      + Add: 500μl phenol-chloroform
      + mix or vortex, 
@@ -177,7 +177,7 @@ In the cold room:
 
 #### DNA Precipitation
 
-* To the Elution and Input:
+* To the IPs and Input:
 
   + Add 1/100th of glycogen
   + Add 1/10th of Sodium Acetate 3M
