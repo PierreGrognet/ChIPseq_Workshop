@@ -68,19 +68,24 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
     + 1μl of primer mix 5μM 
     + 2μl of diluted DNA
 
+|<b>Figure -  Samples dilution|
+|:--:|
+| ![dilution](Pictures/sample_dilution.JPG) |
 
 ### qPCR reactions to do
 
 * Beforehand, we need to **quantify primer efficiency** for each primer pair:
     + We need to prepare a "standard" by mixing different DNA as follows:
-		- 1 volume of your diluted Input (6µL)
-		- 0.5 volume of your diluted IP1 (3µL)
-		- 0.5 volume of your diluted IP2 (3µL)
-    + Make a serial dilution (1:5) this "standard" (2µL into 8µL H2O). 3 different dilutions are enough. *careful*: the acurracy of the serial dilution is essential.
+		- 1 volume of your diluted Input (12µL)
+		- 0.5 volume of your diluted IP1 (6µL)
+		- 0.5 volume of your diluted IP2 (6µL)
+    + Make a serial dilution (1:5) this "standard" (5 µL into 20 µL H2O). 3 different dilutions are enough. *careful*: the acurracy of the serial dilution is essential.
     + These 3 dilutions are referred to as "std-1" (undiluted), "std-2" (1:5 dilution) and "std-3" (1:25 dilution) in the layout for the qPCR. 
     + These PCR are used to determine primer efficiency (see below).
 
-
+|<b>Figure -  Standards preparation|
+|:--:|
+| ![Standards](Pictures/standards.jpg) |
 
 
 * How many qPCR wells per pair of students:
