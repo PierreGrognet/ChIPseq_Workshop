@@ -85,7 +85,7 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 
 |<b>Figure -  Standards preparation|
 |:--:|
-| ![Standards](Pictures/standards.jpg) |
+| ![Standards](Pictures/standards.JPG) |
 
 
 * How many qPCR wells per pair of students:
