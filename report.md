@@ -35,7 +35,7 @@ The report is due for **Friday, Septembre 30th, 23:59**
 
 # Second report
 
-The report is due for **Monday, December 12th, 23:59**
+The report is due for **Friday, January 6th, 23:59**
 
 ### Grade
   This report accounts for **40%** of your grade for the teaching unit
