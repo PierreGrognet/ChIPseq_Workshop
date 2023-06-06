@@ -16,7 +16,7 @@ The Bio-Rad CFX Real-Time PCR detection system will be used with pairs of primer
 
 Here we will use two pairs of primers:  
 >- Pair A :\
-Primers FC77 and FC 78\
+Primers FC77 and FC78\
 Bind in the middle of Pa_2_11200 CDS, coding for **Actin**  
 >- Pair B :\
 Primers FC125 and FC126\
