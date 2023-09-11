@@ -42,7 +42,7 @@ It relies on the following key steps:
     
 ## Targeted Proteins and histone marks
 
-The following histones marks and protein will be targeted during this course. Please note that not every mark will be targeted every year.
+The following histones marks and protein will be targeted during this course (please note that not every mark will be targeted every year):
 H3K36me3, H3K27me3, H3K9me3, H3K4me3, H4K20me3, RNA Polymerase II, GFP.
 
 
