@@ -118,16 +118,16 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 * This and the rest of the analysis can be done using the provided excel file: [Excel file](qPCR_Analysis.xlsx)
 
 Adjust the Cq of the input:\
-<img src="Pictures/input_adj.png" width=200>
+<img src="Pictures/input_adj.png">
 
 Adjustment of the Cq_sample :\
-<img src="Pictures/cqadj_sample.png" width=200 >
+<img src="Pictures/cqadj_sample.png" width=300>
 
 Where E stands for the primer efficiency.
 
 
 Adjustment of the Cq_Input (for the same dilution in qPCR):\
-<img src="Pictures/cqadj_input.png">
+<img src="Pictures/cqadj_input.png"  width=300>
 
 
 For each Sample:
