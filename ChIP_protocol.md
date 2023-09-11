@@ -38,7 +38,7 @@ Grinding and storage (In cold room)
 - Stop the reaction with 30 μl of EGTA pH 8 0.5 M , incubate 5 min on ice.
 - Centrifuge 3-5 min at 4°C at top speed, 
 - Recover the supernatant (= soluble chromatin), 
-- Repeat the centrifugation to remove as much as possible the undigested genomic DNA.
+- Repeat the centrifugation to remove as much as possible the unsolubilized genomic material.
 - Quantify the 2µL of your chromatin (with [QuBit](QuBit.md), following the QuBit kit protocol). You may need to dilute an aliquot of the chromatin beforehand.
 
 (Possibility of storing -80 ° C at this stage, but for the ChIP it is better to avoid the thawing steps).
@@ -185,7 +185,7 @@ In the cold room:
   + Divide into two DNA LoBind tubes (approx 250µL / tube)
   + Add 2.5 volumes Ethanol 100% (i.e. approx 625µL 100% EtOH).
   + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
-  + Wash with 70% ethanol
+  + Wash with 70% ethanol. Spin again and remove supernatant
   + Air dry 10-20 min
   + Resuspend each pellet in 15μl of [Tris-EDTA](Tris-EDTA.md). Combine the two pellets of the same IP together. Combine the two pellets of the Input together. The total volume is 30µL.
 
