@@ -9,7 +9,7 @@ Micrococcal nuclease NEB #M0247
 | Target     | Supplier | Catalog Number | Lot Number   | Quantity per IP |
 | ---------- |--------- | -------------- | ----------   | --------------- |
 | H3K36me3   | Abcam    | ab9050         | GR3307136-2  | 10 µL           |
-| H3K27me3   | Sigma    | 17-622         | 3504435      | 5µL             |
+| H3K27me3   | Sigma    | 17-622         | 3759744      | 5µL             |
 | H3K9me3    | Abcam    | ab8898         | GR3373564-1  | 3.75µL (=3.75µg)|
 | H3K4me3    | ActiveMotif | 39159       | 31420006     | 4 µL            |
 | H4K20me3   | ActiveMotif | 39671       | 35518005     | 7.5 µL          |
