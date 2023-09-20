@@ -107,7 +107,7 @@ Wash **50 µL** of magnetic beads per IP, as instructed [here](reagents.md):
 - 30 µl will be used immediatly for the pre-clearing
 - 20 µl will be used the next day
 - **the washed beads must be stored at 4°C**
-\
+
 
 Dilution the chromatin : 
 

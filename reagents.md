@@ -28,6 +28,5 @@ Then, the beads must be washed before use:\
   Wash with [Lysis buffer](Lysis_Buffer.md), 1 ml / 250 µl of beads, 3 min, at RT\
   Collect the beads and resuspend in 250 µl [Lysis buffer](Lysis_Buffer.md)\
   Store at 4°C\
-  \
   
  NB: the volume of beads you wash can be scaled according to your needs
