@@ -149,7 +149,8 @@ In the cold room:
 #### Elution
 - Resuspend the beads in 62.5μL of [TES](TES.md) preheated at 65°C and incubate at 65°C for 10 min (vortex every 2 min or shake with the thermomixer).
 - Place the tube on magnet and **SAVE the the supernatant** in a DNA LoBind Tube.
-- Repeat the elution with fresh TES, pool the two elutions into the same tube.
+- Repeat the elution with other 62.5 µl warm TES
+- Pool the two elutions from the same IP into the same tube.
 
 
 #### Cross-link reversal
