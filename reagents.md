@@ -13,7 +13,7 @@ Micrococcal nuclease NEB #M0247
 | H3K9me3    | Abcam    | ab8898         | GR3373564-1  | 3.75µL (=3.75µg)|
 | H3K4me3    | ActiveMotif | 39159       | 31420006     | 4 µL            |
 | H4K20me3   | ActiveMotif | 39671       | 35518005     | 7.5 µL          |
-| RNA Pol.II | Abcam | ab5131       | GR3436140-1     | 2.5 µL    (=1.5µg)  |
+| RNA Pol.II S5 | Abcam | ab5131       | GR3436140-1     | 2.5 µL    (=1.5µg)  |
 | GFP        | Abcam    | ab290          | GR3321614-1  | 3µL             |
 
 
@@ -23,8 +23,11 @@ Dynabeads protein A Invitrogen 10001D
 
 Vortex (> 30sec) the beads.
 
-Then, the beads must be washed before use:
-> Aliquot the appropriate volume of beads and place on the magnetic rack\
-  Wash with [Lysis buffer](Lysis_Buffer.md), 1 ml / 250µl of beads, 3 min, at RT\
-  Collect the beads and resuspend in [Lysis buffer](Lysis_Buffer.md), same volume as initially\
-  Store at 4°C
+Then, the beads must be washed before use:\
+> Aliquot 250 µl of beads and place on the magnetic rack\
+  Wash with [Lysis buffer](Lysis_Buffer.md), 1 ml / 250 µl of beads, 3 min, at RT\
+  Collect the beads and resuspend in 250 µl [Lysis buffer](Lysis_Buffer.md)\
+  Store at 4°C\
+  \
+  
+ NB: the volume of beads you wash can be scaled according to your needs
