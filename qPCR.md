@@ -57,16 +57,7 @@ You can test different DNA dilutions to come across the right Cq (20-22) or do l
 In theory, the Cq of the Samples should not differ from the Input more than a factor of 4, but I consider that we are OK if we stay in that range (avoid exceeding a Sample>30)
 
 
-### qPCR mix
 
-Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the mix should be prepared for 23 reactions)
-
-
-* Each qPCR reaction is assembled as follow: 
-    + 5μl of 2X MasterMix 
-    + 2μl H2O 
-    + 1μl of primer mix 5μM 
-    + 2μl of diluted DNA
 
 |<b>Figure -  Samples dilution|
 |:--:|
@@ -86,6 +77,18 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 |<b>Figure -  Standards preparation|
 |:--:|
 | ![Standards](Pictures/standards.JPG) |
+    
+    
+ ### qPCR mix
+
+Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the mix should be prepared for 23 reactions)
+
+
+* Each qPCR reaction is assembled as follow: 
+    + 5μl of 2X MasterMix 
+    + 2μl H2O 
+    + 1μl of primer mix 5μM 
+    + 2μl of diluted DNA
 
 
 * How many qPCR wells per pair of students:
