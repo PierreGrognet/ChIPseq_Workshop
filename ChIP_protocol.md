@@ -193,7 +193,7 @@ In the cold room:
   + Divide into two DNA LoBind tubes (approx 250µL / tube)
   + Add 2.5 volumes Ethanol 100% (i.e. approx 625µL 100% EtOH).
   + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
-  + Wash with 70% ethanol. Spin again and remove supernatant
+  + Wash with 400µl of 70% ethanol. Spin again 10 min and remove supernatant carefully
   + Air dry 10-20 min
   + Resuspend each pellet in 15μl of [Tris-EDTA](Tris-EDTA.md). Combine the two pellets of the same IP together. Combine the two pellets of the Input together. The total volume is 30µL.
 
