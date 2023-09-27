@@ -32,7 +32,7 @@ Grinding and storage (In cold room)
 
 - Label the tubes with your name / pair number / IP or other instruction the teachers will give.
 - In the ice: Resuspend the mycelium with 1 mL of [Lysis buffer](Lysis_Buffer.md) (+proteinase inhibitor + CaCl2)
-- Mix well 10 times going back and forth with the P1000, vortex, leave 10 min on ice, vortex again.
+- Mix well at least 10 times going back and forth with the P1000 and vortex. Make sure to resuspend well the mycelium. Then leave 10 min on ice, vortex again.
 - Add **5μl of Micrococcale Nuclease** and incubate 35 min at 37°C (in the water bath) (+ a control without MNase to check digestion), 
 - Gently mix the tubes every 2 min to resuspend the mycelium.
 - Stop the reaction with **30 μl of EGTA** pH 8 0.5 M , incubate 5 min on ice.
