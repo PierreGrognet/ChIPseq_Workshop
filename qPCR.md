@@ -120,30 +120,22 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 
 * This and the rest of the analysis can be done using the provided excel file: [Excel file](qPCR_Analysis.xlsx)
 
-Adjust the Cq of the input:\
-<img src="Pictures/input_adj.png">
-
-Adjustment of the Cq_sample :\
-<img src="Pictures/cqadj_sample.png" width=300>
-
-Where E stands for the primer efficiency.
-
-
-Adjustment of the Cq_Input (for the same dilution in qPCR):\
-<img src="Pictures/cqadj_input.png"  width=300>
-
-
-For each Sample:
-
-<img src="Pictures/enrichment.png">
+* Formula:
+  
+	- Adjust the Cq of the input:\
+	$`Cq_{Adjusted\_Input} = Cq_{Measured\_Input} - \frac{log_{10}(Dilution Factor)}{log_{10}(1+E)}`$, where $E$ stands for the primer efficiency.
+	Here, the input is prepared on 10% of the sample. So
+	$`Cq_{Adjusted\_Input} = Cq_{Measured\_Input} - \frac{log_{10}(10)}{log_{10}(1+E)} = Cq_{Measured\_Input} - \frac{1}{log_{10}(1+E)}`$
+	
+	
+	- For each Sample:
+	$`\%Input = \left[ (1+E) ^ {Cq_{AdjINPUT}\: - \: Cq_{IP}} \right] \times 100 `$
 
 
-In addition, you can also calculate the standard deviation for this enrichment with the following formula:
+	- In addition, you can also calculate the standard deviation for this enrichment with the following formula:
+	$`Std.Dev = \sqrt{ \left( \frac{Mean.Input}{Mean.IP} \right)^{2} \left( \frac{Std.dev.Input^{2}}{Mean.Input^{2}} \: + \: \frac{Std.dev.IP^{2}}{Mean.IP^{2}} \right)}`$,
+	where $`Mean.IP = (1+E)^{Cq_{IP}}`$
 
-<img src="Pictures/std_dev.png" >
 
-where
-
-<img src="Pictures/mean.png" >
 
 **all the formulas will be explained during the workshop**
