@@ -1,1 +1,0 @@
-Std.dev. = \sqrt{\left ( \frac{Mean.Input}{Mean.IP} \right )^{2}\left ( \frac{Std.dev.Input^{2}}{Mean.Input^{2}}+\frac{Std.dev.IP^{2}}{Mean.IP^{2}} \right )}
