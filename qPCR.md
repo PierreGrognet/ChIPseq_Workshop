@@ -2,6 +2,7 @@
 output:
   html_document: default
   pdf_document: default
+use_math: true
 ---
 # qPCR on ChIPed chromatin
 
