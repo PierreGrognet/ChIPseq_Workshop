@@ -137,6 +137,6 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 	$`Std.Dev = \sqrt{ \left( \frac{Mean.Input}{Mean.IP} \right)^{2} \left( \frac{Std.dev.Input^{2}}{Mean.Input^{2}} \: + \: \frac{Std.dev.IP^{2}}{Mean.IP^{2}} \right)}`$,
 	where $`Mean.IP = (1+E)^{Cq_{IP}}`$
 
-<img src="[Pictures/input_adj.png](https://latex.codecogs.com/svg.latex?a^b&plus;b^2=c^2)">
+<img src="https://latex.codecogs.com/svg.latex?a^b&plus;b^2=c^2">
 
 **all the formulas will be explained during the workshop**
