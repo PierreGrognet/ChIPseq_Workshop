@@ -79,8 +79,8 @@ In theory, the Cq of the Samples should not differ from the Input more than a fa
 |:--:|
 | ![Standards](Pictures/standards.JPG) |
     
-    
- ### qPCR mix
+
+### qPCR mix
 
 Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the mix should be prepared for 23 reactions)
 
