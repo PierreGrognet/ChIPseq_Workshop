@@ -17,10 +17,10 @@ The Bio-Rad CFX Real-Time PCR detection system will be used with pairs of primer
 
 Here we will use two pairs of primers:  
 >- Pair A :\
-Primers FC77 and FC78\
+Primers FC77 (ctcccatcaaccccaagagc) and FC78 (gatggagacgtagaaggcgg)\
 Bind in the middle of Pa_2_11200 CDS, coding for **Actin**  
 >- Pair B :\
-Primers FC125 and FC126\
+Primers FC125 (agctactgttgtcgtgctgg) and FC126 (tcgatgaagaatacggcggc)\
 Bind in the 5' region of a repressed gene (named Pa_5_80) surrounded with transposable elements
 
 ### Calculation of Amplification efficiency = primer efficiency
