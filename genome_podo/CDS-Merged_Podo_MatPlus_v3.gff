@@ -1109,7 +1109,7 @@ Chr1plus	artemis	CDS	3401069	3402443	.	+	0	ID=CDS:3401069..3401215;gene_id=Pa_1_
 Chr1plus	artemis	CDS	3403055	3405689	.	-	0	ID=CDS:3405283..3405689;gene_id=Pa_1_9660;transcript_id=Pa_1_9660;function=Putative_cytosolic_ribosome_biogenesis_protein_;color=10
 Chr1plus	artemis	CDS	3406556	3408098	.	+	0	ID=CDS:3406556..3406619;gene_id=Pa_1_9670;transcript_id=Pa_1_9670;function=Putative_protein_of_unknown_function;color=10
 Chr1plus	artemis	CDS	3410196	3411310	.	-	0	ID=CDS:3411150..3411310;gene_id=Pa_1_9680;transcript_id=Pa_1_9680;function=Putative_ER-derived_vesicles_protein_ERV29_;color=10
-Chr1plus	artemis	CDS	3414329	3415679	.	-	0	ID=CDS:3415457..3415679;gene_id=Pa_1_9685;transcript_id=Pa_1_9685;function=Putative_protein_of_unknown_function;color=10
+Chr1plus	artemis	CDS	3412966	3415679	.	-	0	ID=CDS:3413041..3413080;gene_id=Pa_1_9685;transcript_id=Pa_1_9685;function=Putative_protein_of_unknown_function;color=10
 Chr1plus	artemis	CDS	3417833	3419741	.	-	0	ID=CDS:3419417..3419741;gene_id=Pa_1_9690;transcript_id=Pa_1_9690;function=Putative_Glycosyltransferase_Family_57;color=10
 Chr1plus	artemis	CDS	3420008	3421527	.	+	0	ID=CDS:3420008..3421201;gene_id=Pa_1_9700;transcript_id=Pa_1_9700;function=Putative_pH-response_regulator_protein_palC_;color=10
 Chr1plus	artemis	CDS	3422245	3423524	.	-	0	ID=CDS:3423273..3423524;gene_id=Pa_1_9710;transcript_id=Pa_1_9710;function=Putative_protein_of_unknown_function;color=10
@@ -7076,7 +7076,7 @@ Chr5	artemis	CDS	1039102	1041879	.	+	0	ID=CDS:1039102..1039109;gene_id=Pa_5_130;
 Chr5	artemis	CDS	1042177	1043438	.	+	0	ID=CDS:1042177..1042909;gene_id=Pa_5_120;transcript_id=Pa_5_120;function=Putative_zinc-containing_alcohol_dehydrogenase_;color=10
 Chr5	artemis	CDS	1046640	1047541	.	+	0	ID=CDS:1046640..1046870;gene_id=Pa_5_110;transcript_id=Pa_5_110;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	1055606	1056488	.	-	0	ID=CDS:1056464..1056488;gene_id=Pa_5_90;transcript_id=Pa_5_90;function=Putative_protein_of_unknown_function;color=10
-Chr5	artemis	CDS	1072741	1073730	.	-	0	ID=CDS:1072741..1073133;gene_id=Pa_5_80;transcript_id=Pa_5_80;function=Putative_protein_of_unknown_function_pseudogene;color=10
+Chr5	artemis	CDS	1073133	1073616	.	-	0	ID=CDS:1056464..1056488;gene_id=Pa_5_80;transcript_id=Pa_5_80;function=Putative_pseudogene;color=10
 Chr5	artemis	CDS	1076888	1078803	.	-	0	ID=CDS:1078260..1078803;gene_id=Pa_5_70;transcript_id=Pa_5_70;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	1080758	1081289	.	+	0	ID=CDS:1080758..1080987;gene_id=Pa_5_50;transcript_id=Pa_5_50;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	1084053	1085694	.	+	0	ID=CDS:1084053..1084659;gene_id=Pa_5_40;transcript_id=Pa_5_40;function=Putative_protein_of_unknown_function;color=10
@@ -8113,9 +8113,8 @@ Chr5	artemis	CDS	4398487	4399121	.	+	0	ID=CDS:4398487..4398683;gene_id=Pa_5_1112
 Chr5	artemis	CDS	4399432	4399943	.	-	0	ID=CDS:4399535..4399943;gene_id=Pa_5_11118;transcript_id=Pa_5_11118;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	4400941	4401532	.	+	0	ID=CDS:4400941..4401312;gene_id=Pa_5_11117;transcript_id=Pa_5_11117;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	4402384	4404929	.	-	0	ID=CDS:4404637..4404929;gene_id=Pa_5_11116;transcript_id=Pa_5_11116;function=Putative_protein_of_unknown_function;color=10
-Chr5	artemis	CDS	4405932	4406375	.	+	0	ID=CDS:4405932..4406375;gene_id=Pa_5_11119;transcript_id=Pa_5_11114;function=Putative_protein_of_unknown_function;color=10
+Chr5	artemis	CDS	4405932	4411682	.	+	0	ID=CDS:4405932..4406375;gene_id=Pa_5_11114;transcript_id=Pa_5_11114;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	4406490	4406897	.	-	0	ID=CDS:4406490..4406897;gene_id=Pa_5_11115;transcript_id=Pa_5_11115;function=Putative_protein_of_unknown_function;color=10
-Chr5	artemis	CDS	4409533	4411682	.	+	0	ID=CDS:4409533..4409927;gene_id=Pa_5_11114;transcript_id=Pa_5_11114;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	4415758	4416717	.	+	0	ID=CDS:4415758..4416717;gene_id=Pa_5_11113;transcript_id=Pa_5_11113;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	4418898	4421214	.	+	0	ID=CDS:4418898..4418985;gene_id=Pa_5_11110;transcript_id=Pa_5_11110;function=Putative_protein_of_unknown_function;color=10
 Chr5	artemis	CDS	4421378	4423342	.	-	0	ID=CDS:4423261..4423342;gene_id=Pa_5_11100;transcript_id=Pa_5_11100;function=Putative_monooxygenase;color=10
@@ -9554,8 +9553,6 @@ Chr6	artemis	CDS	4249277	4251169	.	+	0	ID=CDS:4249277..4249761;gene_id=Pa_6_1118
 Chr7	artemis	CDS	28785	29642	.	+	0	ID=CDS:28785..29642;gene_id=Pa_0_1640;transcript_id=Pa_0_1640;function=Putative_protein_of_unknown_function;color=10
 Chr7	artemis	CDS	50485	51896	.	+	0	ID=CDS:50485..51000;gene_id=Pa_0_1460;transcript_id=Pa_0_1460;function=Putative_Glycoside_Hydrolase_Family_43;color=10
 Chr7	artemis	CDS	52024	52684	.	-	0	ID=CDS:52636..52684;gene_id=Pa_0_1450;transcript_id=Pa_0_1450;function=Putative_protein_of_unknown_function;color=10
-Chr7	artemis	CDS	53117	54030	.	-	0	ID=CDS:53505..54030;gene_id=Pa_0_1445;transcript_id=Pa_0_1440;function=Putative_Glutamate_carboxypeptidase_2;color=10
-Chr7	artemis	CDS	55259	57568	.	+	0	ID=CDS:55259..55863;gene_id=Pa_0_1440;transcript_id=Pa_0_1440;function=Putative_Glutamate_carboxypeptidase_2;color=10
 Chr7	artemis	CDS	57812	59094	.	+	0	ID=CDS:57812..57959;gene_id=Pa_0_1430;transcript_id=Pa_0_1430;function=Putative_mono-ADP-ribosyltransferase_sirtuin;color=10
 Chr7	artemis	CDS	59612	60406	.	+	0	ID=CDS:59612..60406;gene_id=Pa_0_1425;transcript_id=Pa_0_1425;function=Putative_protein_of_unknown_function;color=10
 Chr7	artemis	CDS	61487	62158	.	+	0	ID=CDS:61487..62158;gene_id=Pa_0_1423;transcript_id=Pa_0_1423;function=Putative_protein_of_unknown_function;color=10
