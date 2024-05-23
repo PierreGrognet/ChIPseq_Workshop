@@ -41,7 +41,8 @@ It contains coordinates and information about genes (TSS, TES, mRNAs), coding se
 
 Here are bed files with only selected annotation:
 - [CDS](genome_podo/CDS-Merged_Podo_MatPlus_v3.bed) : contains the coordinates of CDSs (between START and STOP, regardless of introns)
-- [Transcripts](genome_podo/Transcripts_Podo_MatPlus_v3.bed) : contains the coordinates of TSS and TES (only genes for which the prediction was possible)
+- [Transcripts](genome_podo/Transcripts_Podo_MatPlus_v3.bed) : constains transcripts (mRNA) annotations
+- [Transcriptions sites](genome_podo/Transcription_sites_Podo_MatPlus_v3.bed) : contains the coordinates of TSS and TES (only genes for which the prediction was possible)
 - [Repeats](genome_podo/Repeat_Podo_MatPlus_v3.bed) : contains annotation of repeated sequences *i.e.* transposable elements and duplications
 
 ## Chromosome sizes
