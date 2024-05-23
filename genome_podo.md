@@ -33,13 +33,16 @@ You'll also find bellow 7 fasta files for the 7 chromosomes.
 
 ## Annotation
 
-Here a gff file containing the genome annotation:
+Here is a gff file containing the genome annotation:
 
-[Genome annotation](genome_podo/Annotation_MatPlus_v3.gff)
+[Genome annotation](genome_podo/Annot_MatPlus2016_v2024-05.gff)
 
+It contains coordinates and information about genes (TSS, TES, mRNAs), coding sequences (CDS), repeats, tRNA, centromeres etc.
 
-It contains coordinates and information of coding sequences (CDS), repeats, tRNA, centromeres etc.
-
+Here are bed files with only selected annotation:
+- [CDS](genome_podo/CDS-Merged_Podo_MatPlus_v3.bed) : contains the coordinates of CDSs (between START and STOP, regardless of introns)
+- [Transcripts](genome_podo/Transcripts_Podo_MatPlus_v3.bed) : contains the coordinates of TSS and TES (only genes for which the prediction was possible)
+- [Repeats](genome_podo/Repeat_Podo_MatPlus_v3.bed) : contains annotation of repeated sequences *i.e.* transposable elements and duplications
 
 ## Chromosome sizes
 
