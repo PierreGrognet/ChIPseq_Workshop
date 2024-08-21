@@ -2,7 +2,7 @@
 
 *Podospora anserina* is a filamentous fungus widely used as a model system to study various processes such as development, ageing, prions, etc. The genes responsible for histones posttranslational modifications are also well conserved, making *P. anserina* a handy alternative to higher eukaryotes to study the role of epigenetics in development and genome stability.
 
-*P. anserina* grows fast on axenic medium (about 7 mm per day) and can complete it's life cycle in a week.
+*P. anserina* grows fast on axenic medium (about 7 mm per day) and can complete its life cycle in a week.
 
 
 |<b>Figure 1-  Thallus and fructification of <i>P. anserina</i></b> <BR> Source: Pierre Grognet|

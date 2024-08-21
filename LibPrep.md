@@ -1,13 +1,13 @@
 # Library Preparation
 
-Once the IP quality has been validated, the ChIP material is converted into an Illumina Sequencing library. This is done using the NEBNext UltraII DNA Library Prep Kit for Illumina (NEB #E7645S/L).
+Once the IP quality has been validated, the ChIP material is converted into an Illumina Sequencing library. This is done using the NEBNext Ultra II DNA Library Prep Kit for Illumina (NEB #E7645S/L).
 
 
 ## Prior consideration
 
-- ChIP’ed material should be in volume of 50 µL 10mM Tris-Hcl pH8.0 and be in a PCR tube
-- For input: use 40-50 ng
-- For IP material, use the whole sample (usually a few ng). If the QuBit did not permit the quantification of the ChIP material (concentration too low), it can still be converted into a sequencing library, provided that the qPCR validations are OK.
+- ChIP’ed material should be in volume of 50 µL 10mM Tris-HCl pH8.0 and be in a PCR tube
+- For the input: use 40-50 ng
+- For the IP material, use the whole sample (usually a few ng). If the QuBit did not permit the quantification of the ChIP material (concentration too low), it can still be converted into a sequencing library, provided that the qPCR validations are OK.
 
 
 |<b>Figure -  Overview of the library Preparation protocol</b> <BR> Source: https://international.neb.com|
@@ -18,7 +18,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 
 ## End-repair
-1. Adjust the volume of the IPs and Input material to a total volume of 50µL with 10mM Tris-Hcl pH8.0, then add:
+1. Adjust the volume of the IPs and Input material to a total volume of 50µL with 10mM Tris-HCl pH8.0, then add:
 	- 🍏(green) 3µL NEBNext UltraII End Prep Enzyme Mix
 	- 🍏(green) 7µL NEBNext UltraII End Prep Reaction Buffer
 
@@ -28,7 +28,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 
 4. Place tubes in a PCR machine and run the following program, with the lid set at ≥ 75°C
 	- 30 min at 20°C
-	- 20 min at 65°C
+	- 30 min at 65°C
 	- hold 4°C
 
 *STOP point: If necessary, samples can be stored at -20°C; however, a slight loss in yield (~20%) may be observed. NEB recommends continuing with adaptor ligation before stopping*   
@@ -46,7 +46,7 @@ Once the IP quality has been validated, the ChIP material is converted into an I
 | 100ng - 5ng    |   10-fold (1:10)  |   1.5µM                        |
 | less than 5ng  |   25-fold (1:25)  |   0.6µM                        |
 
-_NB: The "NEBNext Adaptor for Illumina" is in the Multiplex Oligo kit (7335S et 7500S)_
+_NB: The "NEBNext Adaptor for Illumina" is provided in the Multiplex Oligo kit (7335S et 7500S)_
 
 2. Mix the 🔴(red) NEBNext Ultra II Ligation Master Mix by pipetting up and down several times
 
@@ -61,7 +61,7 @@ _NB: The "NEBNext Adaptor for Illumina" is in the Multiplex Oligo kit (7335S et 
 
 9. Incubate 20 min at 20°C in PCR machine (with the LID OFF)
 
-10. Add 🔴(red) 3µL USER Enzyme to the ligation mixture
+10. Add 🔴(red) 3µL USER Enzyme to the ligation mixture. _NB: The "USER enzyme" is provided in the Multiplex Oligo kit_
 
 11. Mix well by gentle pipetting up and down at least 10 times
 
@@ -76,10 +76,10 @@ _NB: The "NEBNext Adaptor for Illumina" is in the Multiplex Oligo kit (7335S et 
 
 ## Clean-UP using Ampure XP beads
 
-14. Warm the Ampure XP beads to room temperature for 30 min. Prepare fresh 80% EtOH. Transfer the adaptor ligated material to a 1.5mL DNA LoBind Eppendorf microtube.
+14. Warm the **Ampure XP beads** to room temperature for 30 min. Prepare fresh 80% EtOH. Transfer the adaptor ligated material to a 1.5mL DNA LoBind Eppendorf microtube.
 
 
-15. Mix the beads well by vortexing (> 10s) and precisely add 1 volume (= 96.5µL) of Ampure XP beads to adapter ligated material
+15. Mix the beads well by vortexing (> 10s) and precisely add 0.9 volume (= 87µL) of Ampure XP beads to adapter ligated material
 16. Mix by pipetting up and down at least 10 times followed by vortexing
 17. Incubate 5 min at RT
 
@@ -95,7 +95,7 @@ _NB: The "NEBNext Adaptor for Illumina" is in the Multiplex Oligo kit (7335S et 
 25. Incubate 1 min at RT.
 26. Discard supernatant. Do not disturb the beads.
 
-27. Do a short spin (2-3 sec), then place the tube on magnet and aspirate remaining EtOH with a p20. Leave the tube on magnet for 30 sec (lid open to air-dry). Proceed to the following step (= elution) when the beads are still dark brown and glossy looking (and all liquid has evaporated). When the beads turn lighter brown and start to crack, they are too dry and elution is inefficient.
+27. Do a short spin (2-3 sec), then place the tube on magnet and aspirate remaining EtOH with a p20. Leave the tube on magnet for 30 sec (lid open to air-dry). Proceed to the following step (= elution) when the beads are still dark brown and glossy looking (and all liquid has evaporated). When the beads turn lighter brown and start to crack, they are too dry and the elution becomes inefficient.
 
 28. Remove the tube from magnet and quickly add 16µL Bottled water.
 29. Mix by pipetting up and down at least 10 times.
@@ -122,7 +122,7 @@ _NB: The "NEBNext Adaptor for Illumina" is in the Multiplex Oligo kit (7335S et 
 36. Place tubes in PCR machine and run the following program
 	- 30 sec  @ 98°C
 	- 10 sec  @ 98°C |
-	- 30 sec  @ 65°C |  x (7 - 12 cycles)
+	- 30 sec  @ 65°C |  x (7 - 12 cycles)   [_NEB now says anneal+extension 75sec @ 65°C_]
 	- 30 sec  @ 72°C |
 	- 5 min   @ 72°C
 	- hold 4°C

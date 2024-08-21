@@ -3,7 +3,7 @@
 
 ## Overview of ChIP protocol
 
-**ChIP** stands for **Ch**omatin **I**mmuno**P**recipitation. This technique is used to determine whether specific protein (or specific protein modifications) are found at specific genomic regions. The overall goal is to **isolate all DNA regions bound to a specific protein** using **antibodies** recognizing the protein (or the modifiedf protein) of interest.
+**ChIP** stands for **Ch**omatin **I**mmuno**P**recipitation. This technique is used to determine whether specific protein (or specific protein modifications) are found at specific genomic regions. The overall goal is to **isolate all DNA regions bound to a specific protein** using **antibodies** recognizing the protein (or the modified protein) of interest.
 
 |<b>Figure -  Simplified representation of the ChIP-procedure.</b> <BR> Source: Pierre Grognet|
 |:--:|
@@ -15,7 +15,7 @@
 
 It relies on the following key steps:
 
-1. Many proteins bind to DNA (eg. transcription factors, histones, etc.). Before extracting the chromatin, covalent bound are created between DNA and proteins. This is called "cross-linking". The cross-linking is performed by treating the cells with PFA (paraformaldehyde).
+1. Many proteins bind to DNA (eg. transcription factors, histones, etc.). Before extracting the chromatin, covalent bounds are created between DNA and proteins. This is called "cross-linking". The cross-linking is performed by treating the cells with PFA (paraformaldehyde).
 
 2. After extraction, the chromatin is sheared into small fragments either by sonication or thanks to enzyme such as the Micrococcal nuclease.
 
@@ -25,7 +25,7 @@ It relies on the following key steps:
 
 5. We then add magnetics beads coated with proteins called Protein G or Protein A. These proteins are able to bind the constant part of IgG.
 
-6. The magnetic beads bound to the chromatin-protein-antibody complex is precipitated with a magnet. They stay stuck to tube while the rest is discarded with the supernatant.
+6. The magnetic beads bound to the chromatin-protein-antibody complex is precipitated using a magnet. They stay stuck to tube while the rest is discarded with the supernatant.
 
 7. We separate the beads, proteins and DNA from each other (by heating).
 
