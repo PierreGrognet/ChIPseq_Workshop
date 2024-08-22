@@ -33,8 +33,7 @@ Grinding and storage (In cold room)
 - Label the tubes with your name / pair number / IP or other instruction the teachers will give.
 - In the ice: Resuspend the mycelium with 1 mL of [Lysis buffer](Lysis_Buffer.md) (+proteinase inhibitor + CaCl2)
 - Mix well at least 10 times going back and forth with the P1000 and vortex. Make sure to resuspend well the mycelium. Then leave 10 min on ice, vortex again.
-- Add **5μl of Micrococcale Nuclease** and incubate 35 min at 37°C (in the water bath) (+ a control without MNase to check digestion), 
-- Gently mix the tubes every 2 min to resuspend the mycelium.
+- Add **5μl of Micrococcale Nuclease** and incubate **35 min at 37°C** (while continuously shaking if possible, otherwise in a waterbath) (Include a control without MNase to check digestion). If using a waterbath, gently mix the tubes every 2 min to resuspend the mycelium.
 - Stop the reaction with **30 μl of EGTA** pH 8 0.5 M , incubate 5 min on ice.
 - Centrifuge 3-5 min at 4°C at top speed, 
 - Recover the supernatant (= soluble chromatin), 
@@ -101,7 +100,7 @@ It should looks like this:
 
  
 
-## ChiP:
+## ChIP:
 
 Wash **50 µL** of magnetic beads per IP, as instructed [here](reagents.md):
 - 30 µl will be used immediatly for the pre-clearing
@@ -119,7 +118,7 @@ Dilution the chromatin :
 
 In the cold room:
 
-- Pre-clearing: Add 30 μl of washed magnetic beads to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel.
+- Pre-clearing: Add **30 μl of washed magnetic beads** to the chromatin. Incubate between 1 hour and 4 hours at 4°C on a rotating wheel.
 - Place the tubes on a magnetic rack for 2-3 min and recover the supernatant in a clean DNA LoBind tube. Keep the tube on ice.
 - Save 100 μl (= Input) to a new tube and freeze it at -20°C or -80°C.
 - Add the appropriate amount of antibody (see [here](reagents.md)) to the rest (1 ml). Incubate over night at 4°C on a rotating wheel.
@@ -136,7 +135,7 @@ In the cold room:
 
 #### Binding and washes
 
-- Add 20μl of washed magnetic beads to each IP and incubate 4h at 4°C on a rotating wheel.
+- Add **20μl of washed magnetic beads** to each IP and incubate 4h at 4°C on a rotating wheel.
 
 - Washes: Place the eppendorf tube on the magnetic rack for 3 min, remove supernatant, add 1 ml of the following cold buffers and incubate 10 min on rotating wheel each time at 4°C.
     1. [Lysis buffer](Lysis_Buffer.md) without protease inhibitor without CaCl2 - x2
@@ -149,13 +148,13 @@ In the cold room:
 #### Elution
 - Resuspend the beads in 62.5μL of [TES](TES.md) preheated at 65°C and incubate at 65°C for 10 min (vortex every 2 min or shake with the thermomixer).
 - Place the tube on magnet and **SAVE the the supernatant** in a DNA LoBind Tube.
-- Repeat the elution with other 62.5 µl warm TES
+- Repeat the elution with again 62.5 µl of warm [TES](TES.md)
 - Pool the two elutions from the same IP into the same tube.
 
 
 #### Cross-link reversal
 - Adjust the volume of Input and IP to 500 µL with [TES](TES.md).
-- Incubate the IPs and the Input at 65°C over night to reverse the cross-link
+- Incubate the IPs and the Input at 65°C over-night to reverse the cross-link
 
 
 
@@ -200,5 +199,5 @@ In the cold room:
 
 * Quantify 2µL of the Input and IP sample with the Qubit dsDNA HS kit (follow the [QuBit protocol](QuBit.md))
 
-* Store at -20°C. Evaluate the IP specificity per qPCR and/or proceed with the library preparation.
+* Store at -20°C. Evaluate the IP specificity by qPCR and/or proceed with the library preparation.
 
