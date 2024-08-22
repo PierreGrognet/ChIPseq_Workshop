@@ -1,10 +1,10 @@
 # Reports
 
 ## There will be two reports:
-- The first one about the wet part, *i.e.* the five day experiments of the workshop
-- The second one about the *in silico* analysis of the sequencing
+- The **first one** about the wet part, *i.e.* the five day experiments of the workshop
+- The **second one** about the *in silico* analysis of the sequencing
 
-### Writing instructions
+### Writing instructions (applies to both reports)
   - Write with your own words. 
   - Copy-paste (from websites, existing publications, …) is prohibited (plagiarism). 
   - Cite your sources when needed
@@ -29,7 +29,7 @@ The report is due for **Friday, Septembre 30th, 23:59**
 ### Outline
 |<b>Overview of the ChIP practical report</b> |
 |:--:|
-| ![Report Overview](Pictures/Report.png) |
+| ![Report Overview](Pictures/Report.jpg) |
 
 
 
@@ -47,7 +47,7 @@ The report is due for **Friday, January 6th, 23:59**
 - One or several bedgraphs
 - Intersections between the ChIP-data generated during the practical and something else (other ChIP data; genomic feature; ...)
 
-Importantly: this analyses done and shown must be used to convey a biological/technical message. 
+Importantly: the analyses done and shown must be used to convey a biological/technical message. They aim at answering the biological/technical question raises in the introduction. Every pair of students can tackle its own biological/technical question.
 
 
 ### Outline
@@ -59,4 +59,4 @@ The space devoted to each section can also vary.
 
 |<b>Overview of the ChIPseq analysis report</b> |
 |:--:|
-| ![Report Overview](Pictures/Report2.png) |
+| ![Report Overview](Pictures/Report2.jpg) |
