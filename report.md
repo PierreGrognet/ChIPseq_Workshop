@@ -47,7 +47,7 @@ The report is due for **Friday, January 6th, 23:59**
 - One or several bedgraphs
 - Intersections between the ChIP-data generated during the practical and something else (other ChIP data; genomic feature; ...)
 
-Importantly: the analyses done and shown must be used to convey a biological/technical message. They aim at answering the biological/technical question raises in the introduction. Every pair of students can tackle its own biological/technical question.
+Importantly: the analyses done and shown must be used to convey a biological/technical message. They aim at answering the biological/technical question raised in the introduction. Every pair of students can tackle its own biological/technical question.
 
 
 ### Outline
