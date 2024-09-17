@@ -65,10 +65,11 @@ To the tube kept over-night at 65°C,
 
 * Adjust the volume to 300 µl with H2O
 * Add 300μl phenol-chloroform  (**Carefull! Phenol and chloroform must be used under the fume hood!**)
-* mix or vortex, 
+* mix or vortex 
 * centrifuge 3 min (top speed, room temperature)
 * recover the aqueous phase in a fresh tube
 * Add 300 μl chloroform to the aqueous phase
+* mix or vortex 
 * centrifuge 3 min (top speed, room temperature)
 * recover the aqueous phase in a fresh tube
 
