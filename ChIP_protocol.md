@@ -175,10 +175,11 @@ In the cold room:
 * Phenol extraction: to the Input and IPs
 
      + Add: 500μl phenol-chloroform
-     + mix or vortex, 
+     + mix or vortex 
      + centrifuge 3 min (top speed at room temperature)
      + recover the aqueous phase in a fresh DNA LoBind tube
      + Add: 500 μl chloroform
+     + mix or vortex
      + centrifuge 3 min (top speed at room temperature)
      + recover the aqueous phase in a fresh DNA LoBind tube
 
