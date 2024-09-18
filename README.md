@@ -73,6 +73,8 @@ Here is the schedule of the workshop\
 * [LiCl Washbuffer](LiCl_Buffer.md)  
 * [TES](TES.md)
 * [Tris-EDTA](Tris_EDTA.md)
+* Tris HCl 10 mM
+* EGTA 0.5M pH8
 
 
 ## Reports:
