@@ -129,7 +129,8 @@ In the cold room:
 **Caution**: 1 Tube (5μg) = 1 Precipitation with 1 antibody. Prepare 1 tube for each replicate of each antibody.
 
  
- 
+*The tubes must be annotated this way:* \
+<img src="Pictures/tube_annotation.jpg" width="300" height="100">
  
 
 ### Day 3
