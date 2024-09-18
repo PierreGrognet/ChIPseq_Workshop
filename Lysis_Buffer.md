@@ -25,4 +25,4 @@ license: Creative Commons Attribution-ShareAlike (CC BY-SA 4.0)
 |EDTA 0.5M pH 8 |     0.4 ml |
 |Triton X-100|2 ml |
 |Sodium deoxycholate 5%|4 ml|
-|H<sub>2sub>0|178 ml|
+|H<sub>2</sub>0|178 ml|
