@@ -14,3 +14,4 @@
 |LiCl     5M      |    2.5 ml |
 |NP40|0,25 ml|
 |EDTA 0.5M pH 8| 0.1 ml|
+|H<sub>2</sub>0| 46.65 ml|
