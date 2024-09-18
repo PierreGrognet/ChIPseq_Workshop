@@ -30,3 +30,15 @@ Then, the beads must be washed before use:\
   Store at 4°C\
   
  NB: the volume of beads you wash can be scaled according to your needs
+
+
+
+
+ ## Other
+
+Nuclease-free water
+
+RNaseA\
+Proteinase K
+
+Phenol and chloroform
