@@ -8,5 +8,6 @@
 
 |Preparation| for 100 ml|
 |:---|----|
-|Tris HCl 1M pH 8| 0.5 ml|
-|EDTA 0.5M pH 8| 0.1 ml|
+|Tris HCl 1M pH 8| 1 ml|
+|EDTA 0.5M pH 8| 0.2 ml|
+|H<sub>2</sub>0| 98,8 ml|
