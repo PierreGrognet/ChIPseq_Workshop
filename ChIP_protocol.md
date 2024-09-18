@@ -78,8 +78,8 @@ To the tube kept over-night at 65°C,
 
 
 + Add 1/100th of glycogen
-+ Add 1/10th Sodium Acetate 3 M. Mix
-+ Add 2.5 volume of Ethanol 100%
++ Add 1/10th Sodium Acetate 3 M
++ Add 2.5 volume of Ethanol 100% and mix well
 + Centrifuge 15 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
 + Add 500 μl cold ethanol 70% 
 + Centrifuge 5 min 16000g, 4°C, carefully remove the supernatant without aspirating the pelet.
@@ -193,6 +193,7 @@ In the cold room:
   + Vortex
   + Divide into two DNA LoBind tubes (approx 250µL / tube)
   + Add 2.5 volumes Ethanol 100% (i.e. approx 625µL 100% EtOH).
+  + Vortex
   + Centrifuge 10 min 16000g, 4°C, carefully remove supernatant without disturbing the pellet
   + Wash with 400µl of 70% ethanol. Spin again 10 min and remove supernatant carefully
   + Air dry 10-20 min
