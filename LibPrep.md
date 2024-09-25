@@ -122,8 +122,7 @@ _NB: The "NEBNext Adaptor for Illumina" is provided in the Multiplex Oligo kit (
 36. Place tubes in PCR machine and run the following program
 	- 30 sec  @ 98°C
 	- 10 sec  @ 98°C |
-	- 30 sec  @ 65°C |  x (7 - 12 cycles)   [_NEB now says anneal+extension 75sec @ 65°C_]
-	- 30 sec  @ 72°C |
+	- 75 sec  @ 65°C |  x (7 - 12 cycles) 
 	- 5 min   @ 72°C
 	- hold 4°C
 
