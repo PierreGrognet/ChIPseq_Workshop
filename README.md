@@ -68,13 +68,14 @@ Here is the schedule of the workshop\
 
 ## Buffers recipes:
 
+* [Solutions to prepare](Solutions_to_prepare.md)\
+ \
 * [Lysis buffer](Lysis_Buffer.md)
 * [Lysis buffer NaCl](Lysis_Buffer_500.md)  
 * [LiCl Washbuffer](LiCl_Buffer.md)  
 * [TES](TES.md)
 * [Tris-EDTA](Tris_EDTA.md)
 * Tris HCl 10 mM
-* EGTA 0.5M pH8
 
 
 ## Reports:
