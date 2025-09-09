@@ -34,7 +34,7 @@ Then, the beads must be washed before use:\
 
 
 
- ## Other
+## Other
 
 Nuclease-free water
 

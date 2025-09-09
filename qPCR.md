@@ -120,6 +120,9 @@ Prepare a master mix for n+3 reactions (if you have 20 qPCR reaction to do, the 
 |:--:|
 | ![qPCR reactions](Pictures/Layout_Plate_qPCR_8strips.png) |
     
+\
+\
+\
 
 ## Analysis of the results:
 
