@@ -50,24 +50,24 @@ _NB: The "NEBNext Adaptor for Illumina" is provided in the Multiplex Oligo kit (
 
 5. Mix the 🔴(red) NEBNext Ultra II Ligation Master Mix by pipetting up and down several times
 
-5. To the 60µL End-repaired material, add the following:
+6. To the 60µL End-repaired material, add the following:
 	-  🔴(red) 30µL NEBNext Ultra II Ligation Master Mix
 	-  🔴(red) 1µL NEBNext Ligation Enhancer
 	-  🔴(red) 2.5µL (diluted) NEBNext Adaptor for Illumina
 
-6. Set a 200µL pipette to 50µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Caution, the Ligation Master Mix is very viscous.
+7. Set a 200µL pipette to 50µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Caution, the Ligation Master Mix is very viscous.
 
-7. Quickly spin in a mini centrifuge
+8. Quickly spin in a mini centrifuge
 
-8. Incubate 20 min at 20°C in PCR machine (with the LID OFF)
+9. Incubate 20 min at 20°C in PCR machine (with the LID OFF)
 
-9. Add 🔴(red) 3µL USER Enzyme to the ligation mixture. _NB: The "USER enzyme" is provided in the Multiplex Oligo kit_
+10. Add 🔴(red) 3µL USER Enzyme to the ligation mixture. _NB: The "USER enzyme" is provided in the Multiplex Oligo kit_
 
-10. Mix well by gentle pipetting up and down at least 10 times
+11. Mix well by gentle pipetting up and down at least 10 times
 
-11. Perform a quick spin in a mini centrifuge
+12. Perform a quick spin in a mini centrifuge
 
-12. Place tubes in PCR machine and incubate for 20 min at 37°C with the LID set at > 47°C.
+13. Place tubes in PCR machine and incubate for 20 min at 37°C with the LID set at > 47°C.
 
 *STOP point: samples can be stored overnight at -20°C*   
 
@@ -76,34 +76,34 @@ _NB: The "NEBNext Adaptor for Illumina" is provided in the Multiplex Oligo kit (
 
 ## Clean-UP using Ampure XP beads
 
-13. Warm the **Ampure XP beads** to room temperature for 30 min. Prepare fresh 80% EtOH. Transfer the adaptor ligated material to a 1.5mL DNA LoBind Eppendorf microtube.
+14. Warm the **Ampure XP beads** to room temperature for 30 min. Prepare fresh 80% EtOH. Transfer the adaptor ligated material to a 1.5mL DNA LoBind Eppendorf microtube.
 
 
-14. Mix the beads well by vortexing (> 10s) and precisely add 0.9 volume (= 87µL) of Ampure XP beads to adapter ligated material
-15. Mix by pipetting up and down at least 10 times followed by vortexing
-16. Incubate 5 min at RT
+15. Mix the beads well by vortexing (> 10s) and precisely add 0.9 volume (= 87µL) of Ampure XP beads to adapter ligated material
+16. Mix by pipetting up and down at least 10 times followed by vortexing
+17. Incubate 5 min at RT
 
-17. Quickly spin in a mini centrifuge / normal centrifuge
-18. Place tubes on magnetic particle separator.
-19. After 5 minutes (or when the solution is clear) discard the supernatant
+18. Quickly spin in a mini centrifuge / normal centrifuge
+19. Place tubes on magnetic particle separator.
+20. After 5 minutes (or when the solution is clear) discard the supernatant
 
-20. Keep tubes on magnet and add 200µL freshly prepared 80% EtOH to the beads
-21. Incubate 1 min at RT while the tubes are still on the magnetic rack
-22. Discard supernatant. Do not disturb the beads
+21. Keep tubes on magnet and add 200µL freshly prepared 80% EtOH to the beads
+22. Incubate 1 min at RT while the tubes are still on the magnetic rack
+23. Discard supernatant. Do not disturb the beads
 
-23. Keep tube on magnet and add again 200µL 80% EtOH
-24. Incubate 1 min at RT.
-25. Discard supernatant. Do not disturb the beads.
+24. Keep tube on magnet and add again 200µL 80% EtOH
+25. Incubate 1 min at RT.
+26. Discard supernatant. Do not disturb the beads.
 
-26. Do a short spin (2-3 sec), then place the tube on magnet and aspirate remaining EtOH with a p20. Leave the tube on magnet for 30 sec (lid open to air-dry). Proceed to the following step (= elution) when the beads are still dark brown and glossy looking (and all liquid has evaporated). When the beads turn lighter brown and start to crack, they are too dry and the elution becomes inefficient.
+27. Do a short spin (2-3 sec), then place the tube on magnet and aspirate remaining EtOH with a p20. Leave the tube on magnet for 30 sec (lid open to air-dry). Proceed to the following step (= elution) when the beads are still dark brown and glossy looking (and all liquid has evaporated). When the beads turn lighter brown and start to crack, they are too dry and the elution becomes inefficient.
 
-27. Remove the tube from magnet and quickly add 16µL Bottled water.
-28. Mix by pipetting up and down at least 10 times.
-29. Incubate 2 min at RT.
+28. Remove the tube from magnet and quickly add 16µL Bottled water.
+29. Mix by pipetting up and down at least 10 times.
+30. Incubate 2 min at RT.
 
-30. Quickly spin the tube
-31. Place tube on magnetic particle separator for 5min at RT
-32. Transfer 15µL of the supernatant to a fresh PCR tube. Avoid taking beads at all cost.
+31. Quickly spin the tube
+32. Place tube on magnetic particle separator for 5min at RT
+33. Transfer 15µL of the supernatant to a fresh PCR tube. Avoid taking beads at all cost.
 
 *Samples can be stored at -20°C.*
 
@@ -112,14 +112,14 @@ _NB: The "NEBNext Adaptor for Illumina" is provided in the Multiplex Oligo kit (
 
 *Prior starting: plan the experiment to use a unique index for all the libraries that will be sequenced together*
 
-33. Add to the 15µL cleaned-up adapter ligated material the following:
+34. Add to the 15µL cleaned-up adapter ligated material the following:
 	- 🔵(blue) 25µL NEBNext Ultra II Q5 Master Mix
 	- 🔵(blue) 5µL Index 10µM primer
 	- 🔵(blue) 5µL Universal 10µM PCR primer
 
-34. Set a 200µL pipette to 40µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Quickly spin in a mini-centrifuge.
+35. Set a 200µL pipette to 40µL and then pipette the entire volume up and down at least 10 times to mix thoroughly. Quickly spin in a mini-centrifuge.
 
-35. Place tubes in PCR machine and run the following program
+36. Place tubes in PCR machine and run the following program
 	- 30 sec  @ 98°C
 	- 10 sec  @ 98°C |
 	- 75 sec  @ 65°C |  x (7 - 12 cycles) 
@@ -149,6 +149,7 @@ b- Purification with size selection. To do so, place 100 ng of PCR amplified mat
 ## Quantification
 
 Quantify 2µL of cleaned-up material using QuBit dsDNA HS kit. Follow the procedure shown in the [QuBit](QuBit.md) section.
+
 
 
 
