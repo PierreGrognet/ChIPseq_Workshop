@@ -21,7 +21,7 @@ Organized by:\
 [Benoit Moindrot](mailto:benoit.moindrot@universite-paris-saclay.fr) and [Pierre Grognet](mailto:pierre.grognet@universite-paris-saclay.fr)
 
 
-The worshop will take place from the **15th to the 19th of September 2025**
+The worshop will take place from the **14th to the 18th of September 2026**
 
 Here is the schedule of the workshop\
 <img src="Pictures/schedule.png" >
