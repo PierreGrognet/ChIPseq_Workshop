@@ -15,6 +15,7 @@ Micrococcal nuclease NEB #M0247
 | H4K20me3   | ActiveMotif | 39671       | 35518005     | 7.5 µL          |
 | RNA Pol.II S5 | Abcam | ab5131       | GR3436140-1     | 2.5 µL    (=1.5µg)  |
 | GFP        | Abcam    | ab290          | GR3321614-1  | 3µL             |
+| IgG        | Millipore| PP64B          | 3763408      | 5µL             |
 
 
 ## Magnetic beads
